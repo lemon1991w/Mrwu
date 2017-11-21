@@ -1,0 +1,142 @@
+[
+    {
+        "merged": "/Users/wusourece/Desktop/FunctionList/app/build/intermediates/res/merged/arm/debug/anim/push_bottom_in.xml",
+        "source": "/Users/wusourece/Desktop/FunctionList/app/src/main/res/anim/push_bottom_in.xml"
+    },
+    {
+        "merged": "/Users/wusourece/Desktop/FunctionList/app/build/intermediates/res/merged/arm/debug/anim/animation3_in_new.xml",
+        "source": "/Users/wusourece/Desktop/FunctionList/app/src/main/res/anim/animation3_in_new.xml"
+    },
+    {
+        "merged": "/Users/wusourece/Desktop/FunctionList/app/build/intermediates/res/merged/arm/debug/anim/design_bottom_sheet_slide_in.xml",
+        "source": "/Users/wusourece/Desktop/FunctionList/app/build/intermediates/exploded-aar/com.android.support/design/24.2.1/res/anim/design_bottom_sheet_slide_in.xml"
+    },
+    {
+        "merged": "/Users/wusourece/Desktop/FunctionList/app/build/intermediates/res/merged/arm/debug/anim/abc_slide_in_bottom.xml",
+        "source": "/Users/wusourece/Desktop/FunctionList/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/24.2.1/res/anim/abc_slide_in_bottom.xml"
+    },
+    {
+        "merged": "/Users/wusourece/Desktop/FunctionList/app/build/intermediates/res/merged/arm/debug/anim/animation0_in_current.xml",
+        "source": "/Users/wusourece/Desktop/FunctionList/app/src/main/res/anim/animation0_in_current.xml"
+    },
+    {
+        "merged": "/Users/wusourece/Desktop/FunctionList/app/build/intermediates/res/merged/arm/debug/anim/animation0_in_new.xml",
+        "source": "/Users/wusourece/Desktop/FunctionList/app/src/main/res/anim/animation0_in_new.xml"
+    },
+    {
+        "merged": "/Users/wusourece/Desktop/FunctionList/app/build/intermediates/res/merged/arm/debug/anim/actionsheet_dialog_out.xml",
+        "source": "/Users/wusourece/Desktop/FunctionList/app/src/main/res/anim/actionsheet_dialog_out.xml"
+    },
+    {
+        "merged": "/Users/wusourece/Desktop/FunctionList/app/build/intermediates/res/merged/arm/debug/anim/animation3_out_current.xml",
+        "source": "/Users/wusourece/Desktop/FunctionList/app/src/main/res/anim/animation3_out_current.xml"
+    },
+    {
+        "merged": "/Users/wusourece/Desktop/FunctionList/app/build/intermediates/res/merged/arm/debug/anim/animation2_in_shangxia.xml",
+        "source": "/Users/wusourece/Desktop/FunctionList/app/src/main/res/anim/animation2_in_shangxia.xml"
+    },
+    {
+        "merged": "/Users/wusourece/Desktop/FunctionList/app/build/intermediates/res/merged/arm/debug/anim/abc_popup_enter.xml",
+        "source": "/Users/wusourece/Desktop/FunctionList/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/24.2.1/res/anim/abc_popup_enter.xml"
+    },
+    {
+        "merged": "/Users/wusourece/Desktop/FunctionList/app/build/intermediates/res/merged/arm/debug/anim/actionsheet_dialog_in.xml",
+        "source": "/Users/wusourece/Desktop/FunctionList/app/src/main/res/anim/actionsheet_dialog_in.xml"
+    },
+    {
+        "merged": "/Users/wusourece/Desktop/FunctionList/app/build/intermediates/res/merged/arm/debug/anim/abc_slide_in_top.xml",
+        "source": "/Users/wusourece/Desktop/FunctionList/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/24.2.1/res/anim/abc_slide_in_top.xml"
+    },
+    {
+        "merged": "/Users/wusourece/Desktop/FunctionList/app/build/intermediates/res/merged/arm/debug/anim/design_bottom_sheet_slide_out.xml",
+        "source": "/Users/wusourece/Desktop/FunctionList/app/build/intermediates/exploded-aar/com.android.support/design/24.2.1/res/anim/design_bottom_sheet_slide_out.xml"
+    },
+    {
+        "merged": "/Users/wusourece/Desktop/FunctionList/app/build/intermediates/res/merged/arm/debug/anim/abc_shrink_fade_out_from_bottom.xml",
+        "source": "/Users/wusourece/Desktop/FunctionList/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/24.2.1/res/anim/abc_shrink_fade_out_from_bottom.xml"
+    },
+    {
+        "merged": "/Users/wusourece/Desktop/FunctionList/app/build/intermediates/res/merged/arm/debug/anim/animation1_in_new.xml",
+        "source": "/Users/wusourece/Desktop/FunctionList/app/src/main/res/anim/animation1_in_new.xml"
+    },
+    {
+        "merged": "/Users/wusourece/Desktop/FunctionList/app/build/intermediates/res/merged/arm/debug/anim/design_fab_in.xml",
+        "source": "/Users/wusourece/Desktop/FunctionList/app/build/intermediates/exploded-aar/com.android.support/design/24.2.1/res/anim/design_fab_in.xml"
+    },
+    {
+        "merged": "/Users/wusourece/Desktop/FunctionList/app/build/intermediates/res/merged/arm/debug/anim/animation2_in_new.xml",
+        "source": "/Users/wusourece/Desktop/FunctionList/app/src/main/res/anim/animation2_in_new.xml"
+    },
+    {
+        "merged": "/Users/wusourece/Desktop/FunctionList/app/build/intermediates/res/merged/arm/debug/anim/abc_grow_fade_in_from_bottom.xml",
+        "source": "/Users/wusourece/Desktop/FunctionList/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/24.2.1/res/anim/abc_grow_fade_in_from_bottom.xml"
+    },
+    {
+        "merged": "/Users/wusourece/Desktop/FunctionList/app/build/intermediates/res/merged/arm/debug/anim/push_bottom_out.xml",
+        "source": "/Users/wusourece/Desktop/FunctionList/app/src/main/res/anim/push_bottom_out.xml"
+    },
+    {
+        "merged": "/Users/wusourece/Desktop/FunctionList/app/build/intermediates/res/merged/arm/debug/anim/design_snackbar_in.xml",
+        "source": "/Users/wusourece/Desktop/FunctionList/app/build/intermediates/exploded-aar/com.android.support/design/24.2.1/res/anim/design_snackbar_in.xml"
+    },
+    {
+        "merged": "/Users/wusourece/Desktop/FunctionList/app/build/intermediates/res/merged/arm/debug/anim/abc_popup_exit.xml",
+        "source": "/Users/wusourece/Desktop/FunctionList/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/24.2.1/res/anim/abc_popup_exit.xml"
+    },
+    {
+        "merged": "/Users/wusourece/Desktop/FunctionList/app/build/intermediates/res/merged/arm/debug/anim/animation2_shangxia.xml",
+        "source": "/Users/wusourece/Desktop/FunctionList/app/src/main/res/anim/animation2_shangxia.xml"
+    },
+    {
+        "merged": "/Users/wusourece/Desktop/FunctionList/app/build/intermediates/res/merged/arm/debug/anim/sv_slide_in.xml",
+        "source": "/Users/wusourece/Desktop/FunctionList/app/src/main/res/anim/sv_slide_in.xml"
+    },
+    {
+        "merged": "/Users/wusourece/Desktop/FunctionList/app/build/intermediates/res/merged/arm/debug/anim/design_snackbar_out.xml",
+        "source": "/Users/wusourece/Desktop/FunctionList/app/build/intermediates/exploded-aar/com.android.support/design/24.2.1/res/anim/design_snackbar_out.xml"
+    },
+    {
+        "merged": "/Users/wusourece/Desktop/FunctionList/app/build/intermediates/res/merged/arm/debug/anim/abc_slide_out_bottom.xml",
+        "source": "/Users/wusourece/Desktop/FunctionList/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/24.2.1/res/anim/abc_slide_out_bottom.xml"
+    },
+    {
+        "merged": "/Users/wusourece/Desktop/FunctionList/app/build/intermediates/res/merged/arm/debug/anim/abc_slide_out_top.xml",
+        "source": "/Users/wusourece/Desktop/FunctionList/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/24.2.1/res/anim/abc_slide_out_top.xml"
+    },
+    {
+        "merged": "/Users/wusourece/Desktop/FunctionList/app/build/intermediates/res/merged/arm/debug/anim/sv_slide_out.xml",
+        "source": "/Users/wusourece/Desktop/FunctionList/app/src/main/res/anim/sv_slide_out.xml"
+    },
+    {
+        "merged": "/Users/wusourece/Desktop/FunctionList/app/build/intermediates/res/merged/arm/debug/anim/abc_fade_out.xml",
+        "source": "/Users/wusourece/Desktop/FunctionList/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/24.2.1/res/anim/abc_fade_out.xml"
+    },
+    {
+        "merged": "/Users/wusourece/Desktop/FunctionList/app/build/intermediates/res/merged/arm/debug/anim/animation1_in_current.xml",
+        "source": "/Users/wusourece/Desktop/FunctionList/app/src/main/res/anim/animation1_in_current.xml"
+    },
+    {
+        "merged": "/Users/wusourece/Desktop/FunctionList/app/build/intermediates/res/merged/arm/debug/anim/animation_out_old_right.xml",
+        "source": "/Users/wusourece/Desktop/FunctionList/app/src/main/res/anim/animation_out_old_right.xml"
+    },
+    {
+        "merged": "/Users/wusourece/Desktop/FunctionList/app/build/intermediates/res/merged/arm/debug/anim/abc_fade_in.xml",
+        "source": "/Users/wusourece/Desktop/FunctionList/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/24.2.1/res/anim/abc_fade_in.xml"
+    },
+    {
+        "merged": "/Users/wusourece/Desktop/FunctionList/app/build/intermediates/res/merged/arm/debug/anim/animation3_in_current1.xml",
+        "source": "/Users/wusourece/Desktop/FunctionList/app/src/main/res/anim/animation3_in_current1.xml"
+    },
+    {
+        "merged": "/Users/wusourece/Desktop/FunctionList/app/build/intermediates/res/merged/arm/debug/anim/animation2_in_current.xml",
+        "source": "/Users/wusourece/Desktop/FunctionList/app/src/main/res/anim/animation2_in_current.xml"
+    },
+    {
+        "merged": "/Users/wusourece/Desktop/FunctionList/app/build/intermediates/res/merged/arm/debug/anim/animation_out_current_right.xml",
+        "source": "/Users/wusourece/Desktop/FunctionList/app/src/main/res/anim/animation_out_current_right.xml"
+    },
+    {
+        "merged": "/Users/wusourece/Desktop/FunctionList/app/build/intermediates/res/merged/arm/debug/anim/design_fab_out.xml",
+        "source": "/Users/wusourece/Desktop/FunctionList/app/build/intermediates/exploded-aar/com.android.support/design/24.2.1/res/anim/design_fab_out.xml"
+    }
+]

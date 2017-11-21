@@ -1,0 +1,310 @@
+[
+    {
+        "merged": "/Users/wusourece/Desktop/FunctionList/app/build/intermediates/res/merged/arm/debug/drawable/actionsheet_middle_selector.xml",
+        "source": "/Users/wusourece/Desktop/FunctionList/app/src/main/res/drawable/actionsheet_middle_selector.xml"
+    },
+    {
+        "merged": "/Users/wusourece/Desktop/FunctionList/app/build/intermediates/res/merged/arm/debug/drawable/design_fab_background.xml",
+        "source": "/Users/wusourece/Desktop/FunctionList/app/build/intermediates/exploded-aar/com.android.support/design/24.2.1/res/drawable/design_fab_background.xml"
+    },
+    {
+        "merged": "/Users/wusourece/Desktop/FunctionList/app/build/intermediates/res/merged/arm/debug/drawable/abc_ratingbar_indicator_material.xml",
+        "source": "/Users/wusourece/Desktop/FunctionList/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/24.2.1/res/drawable/abc_ratingbar_indicator_material.xml"
+    },
+    {
+        "merged": "/Users/wusourece/Desktop/FunctionList/app/build/intermediates/res/merged/arm/debug/drawable/abc_edit_text_material.xml",
+        "source": "/Users/wusourece/Desktop/FunctionList/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/24.2.1/res/drawable/abc_edit_text_material.xml"
+    },
+    {
+        "merged": "/Users/wusourece/Desktop/FunctionList/app/build/intermediates/res/merged/arm/debug/drawable/btn_style_one.xml",
+        "source": "/Users/wusourece/Desktop/FunctionList/app/src/main/res/drawable/btn_style_one.xml"
+    },
+    {
+        "merged": "/Users/wusourece/Desktop/FunctionList/app/build/intermediates/res/merged/arm/debug/drawable/selected_dot.xml",
+        "source": "/Users/wusourece/Desktop/FunctionList/app/src/main/res/drawable/selected_dot.xml"
+    },
+    {
+        "merged": "/Users/wusourece/Desktop/FunctionList/app/build/intermediates/res/merged/arm/debug/drawable/abc_ic_arrow_drop_right_black_24dp.xml",
+        "source": "/Users/wusourece/Desktop/FunctionList/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/24.2.1/res/drawable/abc_ic_arrow_drop_right_black_24dp.xml"
+    },
+    {
+        "merged": "/Users/wusourece/Desktop/FunctionList/app/build/intermediates/res/merged/arm/debug/drawable/bg_line.xml",
+        "source": "/Users/wusourece/Desktop/FunctionList/app/src/main/res/drawable/bg_line.xml"
+    },
+    {
+        "merged": "/Users/wusourece/Desktop/FunctionList/app/build/intermediates/res/merged/arm/debug/drawable/button_circular_color.xml",
+        "source": "/Users/wusourece/Desktop/FunctionList/app/src/main/res/drawable/button_circular_color.xml"
+    },
+    {
+        "merged": "/Users/wusourece/Desktop/FunctionList/app/build/intermediates/res/merged/arm/debug/drawable/abc_btn_default_mtrl_shape.xml",
+        "source": "/Users/wusourece/Desktop/FunctionList/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/24.2.1/res/drawable/abc_btn_default_mtrl_shape.xml"
+    },
+    {
+        "merged": "/Users/wusourece/Desktop/FunctionList/app/build/intermediates/res/merged/arm/debug/drawable/navigation_empty_icon.xml",
+        "source": "/Users/wusourece/Desktop/FunctionList/app/build/intermediates/exploded-aar/com.android.support/design/24.2.1/res/drawable/navigation_empty_icon.xml"
+    },
+    {
+        "merged": "/Users/wusourece/Desktop/FunctionList/app/build/intermediates/res/merged/arm/debug/drawable/abc_list_selector_background_transition_holo_dark.xml",
+        "source": "/Users/wusourece/Desktop/FunctionList/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/24.2.1/res/drawable/abc_list_selector_background_transition_holo_dark.xml"
+    },
+    {
+        "merged": "/Users/wusourece/Desktop/FunctionList/app/build/intermediates/res/merged/arm/debug/drawable/abc_cab_background_internal_bg.xml",
+        "source": "/Users/wusourece/Desktop/FunctionList/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/24.2.1/res/drawable/abc_cab_background_internal_bg.xml"
+    },
+    {
+        "merged": "/Users/wusourece/Desktop/FunctionList/app/build/intermediates/res/merged/arm/debug/drawable/edittext_bg.xml",
+        "source": "/Users/wusourece/Desktop/FunctionList/app/src/main/res/drawable/edittext_bg.xml"
+    },
+    {
+        "merged": "/Users/wusourece/Desktop/FunctionList/app/build/intermediates/res/merged/arm/debug/drawable/alertdialog_single_selector.xml",
+        "source": "/Users/wusourece/Desktop/FunctionList/app/src/main/res/drawable/alertdialog_single_selector.xml"
+    },
+    {
+        "merged": "/Users/wusourece/Desktop/FunctionList/app/build/intermediates/res/merged/arm/debug/drawable/abc_ic_voice_search_api_material.xml",
+        "source": "/Users/wusourece/Desktop/FunctionList/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/24.2.1/res/drawable/abc_ic_voice_search_api_material.xml"
+    },
+    {
+        "merged": "/Users/wusourece/Desktop/FunctionList/app/build/intermediates/res/merged/arm/debug/drawable/button_comment.xml",
+        "source": "/Users/wusourece/Desktop/FunctionList/app/src/main/res/drawable/button_comment.xml"
+    },
+    {
+        "merged": "/Users/wusourece/Desktop/FunctionList/app/build/intermediates/res/merged/arm/debug/drawable/no_selected_dot.xml",
+        "source": "/Users/wusourece/Desktop/FunctionList/app/src/main/res/drawable/no_selected_dot.xml"
+    },
+    {
+        "merged": "/Users/wusourece/Desktop/FunctionList/app/build/intermediates/res/merged/arm/debug/drawable/alertdialog_left_selector.xml",
+        "source": "/Users/wusourece/Desktop/FunctionList/app/src/main/res/drawable/alertdialog_left_selector.xml"
+    },
+    {
+        "merged": "/Users/wusourece/Desktop/FunctionList/app/build/intermediates/res/merged/arm/debug/drawable/commit_area_01.png",
+        "source": "/Users/wusourece/Desktop/FunctionList/app/src/main/res/drawable/commit_area_01.png"
+    },
+    {
+        "merged": "/Users/wusourece/Desktop/FunctionList/app/build/intermediates/res/merged/arm/debug/drawable/btn_pre_bg.xml",
+        "source": "/Users/wusourece/Desktop/FunctionList/app/src/main/res/drawable/btn_pre_bg.xml"
+    },
+    {
+        "merged": "/Users/wusourece/Desktop/FunctionList/app/build/intermediates/res/merged/arm/debug/drawable/ls_item_bg.xml",
+        "source": "/Users/wusourece/Desktop/FunctionList/app/src/main/res/drawable/ls_item_bg.xml"
+    },
+    {
+        "merged": "/Users/wusourece/Desktop/FunctionList/app/build/intermediates/res/merged/arm/debug/drawable/abc_dialog_material_background.xml",
+        "source": "/Users/wusourece/Desktop/FunctionList/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/24.2.1/res/drawable/abc_dialog_material_background.xml"
+    },
+    {
+        "merged": "/Users/wusourece/Desktop/FunctionList/app/build/intermediates/res/merged/arm/debug/drawable/bt_shape_03.xml",
+        "source": "/Users/wusourece/Desktop/FunctionList/app/src/main/res/drawable/bt_shape_03.xml"
+    },
+    {
+        "merged": "/Users/wusourece/Desktop/FunctionList/app/build/intermediates/res/merged/arm/debug/drawable/button_circular_bg.xml",
+        "source": "/Users/wusourece/Desktop/FunctionList/app/src/main/res/drawable/button_circular_bg.xml"
+    },
+    {
+        "merged": "/Users/wusourece/Desktop/FunctionList/app/build/intermediates/res/merged/arm/debug/drawable/no_check_03.png",
+        "source": "/Users/wusourece/Desktop/FunctionList/app/src/main/res/drawable/no_check_03.png"
+    },
+    {
+        "merged": "/Users/wusourece/Desktop/FunctionList/app/build/intermediates/res/merged/arm/debug/drawable/checkbox_bg.xml",
+        "source": "/Users/wusourece/Desktop/FunctionList/app/src/main/res/drawable/checkbox_bg.xml"
+    },
+    {
+        "merged": "/Users/wusourece/Desktop/FunctionList/app/build/intermediates/res/merged/arm/debug/drawable/abc_ratingbar_small_material.xml",
+        "source": "/Users/wusourece/Desktop/FunctionList/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/24.2.1/res/drawable/abc_ratingbar_small_material.xml"
+    },
+    {
+        "merged": "/Users/wusourece/Desktop/FunctionList/app/build/intermediates/res/merged/arm/debug/drawable/btn_bg.xml",
+        "source": "/Users/wusourece/Desktop/FunctionList/app/src/main/res/drawable/btn_bg.xml"
+    },
+    {
+        "merged": "/Users/wusourece/Desktop/FunctionList/app/build/intermediates/res/merged/arm/debug/drawable/zan_clicked_07.png",
+        "source": "/Users/wusourece/Desktop/FunctionList/app/src/main/res/drawable/zan_clicked_07.png"
+    },
+    {
+        "merged": "/Users/wusourece/Desktop/FunctionList/app/build/intermediates/res/merged/arm/debug/drawable/abc_cab_background_top_material.xml",
+        "source": "/Users/wusourece/Desktop/FunctionList/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/24.2.1/res/drawable/abc_cab_background_top_material.xml"
+    },
+    {
+        "merged": "/Users/wusourece/Desktop/FunctionList/app/build/intermediates/res/merged/arm/debug/drawable/abc_seekbar_track_material.xml",
+        "source": "/Users/wusourece/Desktop/FunctionList/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/24.2.1/res/drawable/abc_seekbar_track_material.xml"
+    },
+    {
+        "merged": "/Users/wusourece/Desktop/FunctionList/app/build/intermediates/res/merged/arm/debug/drawable/psw_input_area_bg.xml",
+        "source": "/Users/wusourece/Desktop/FunctionList/app/src/main/res/drawable/psw_input_area_bg.xml"
+    },
+    {
+        "merged": "/Users/wusourece/Desktop/FunctionList/app/build/intermediates/res/merged/arm/debug/drawable/zan_noclick_07.png",
+        "source": "/Users/wusourece/Desktop/FunctionList/app/src/main/res/drawable/zan_noclick_07.png"
+    },
+    {
+        "merged": "/Users/wusourece/Desktop/FunctionList/app/build/intermediates/res/merged/arm/debug/drawable/corners_bg.xml",
+        "source": "/Users/wusourece/Desktop/FunctionList/app/src/main/res/drawable/corners_bg.xml"
+    },
+    {
+        "merged": "/Users/wusourece/Desktop/FunctionList/app/build/intermediates/res/merged/arm/debug/drawable/corners_bg1.xml",
+        "source": "/Users/wusourece/Desktop/FunctionList/app/src/main/res/drawable/corners_bg1.xml"
+    },
+    {
+        "merged": "/Users/wusourece/Desktop/FunctionList/app/build/intermediates/res/merged/arm/debug/drawable/abc_spinner_textfield_background_material.xml",
+        "source": "/Users/wusourece/Desktop/FunctionList/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/24.2.1/res/drawable/abc_spinner_textfield_background_material.xml"
+    },
+    {
+        "merged": "/Users/wusourece/Desktop/FunctionList/app/build/intermediates/res/merged/arm/debug/drawable/actionsheet_bottom_selector.xml",
+        "source": "/Users/wusourece/Desktop/FunctionList/app/src/main/res/drawable/actionsheet_bottom_selector.xml"
+    },
+    {
+        "merged": "/Users/wusourece/Desktop/FunctionList/app/build/intermediates/res/merged/arm/debug/drawable/actionsheet_single_selector.xml",
+        "source": "/Users/wusourece/Desktop/FunctionList/app/src/main/res/drawable/actionsheet_single_selector.xml"
+    },
+    {
+        "merged": "/Users/wusourece/Desktop/FunctionList/app/build/intermediates/res/merged/arm/debug/drawable/design_ic_visibility.xml",
+        "source": "/Users/wusourece/Desktop/FunctionList/app/build/intermediates/exploded-aar/com.android.support/design/24.2.1/res/drawable/design_ic_visibility.xml"
+    },
+    {
+        "merged": "/Users/wusourece/Desktop/FunctionList/app/build/intermediates/res/merged/arm/debug/drawable/abc_ic_search_api_material.xml",
+        "source": "/Users/wusourece/Desktop/FunctionList/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/24.2.1/res/drawable/abc_ic_search_api_material.xml"
+    },
+    {
+        "merged": "/Users/wusourece/Desktop/FunctionList/app/build/intermediates/res/merged/arm/debug/drawable/abc_list_selector_holo_light.xml",
+        "source": "/Users/wusourece/Desktop/FunctionList/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/24.2.1/res/drawable/abc_list_selector_holo_light.xml"
+    },
+    {
+        "merged": "/Users/wusourece/Desktop/FunctionList/app/build/intermediates/res/merged/arm/debug/drawable/actionsheet_top_selector.xml",
+        "source": "/Users/wusourece/Desktop/FunctionList/app/src/main/res/drawable/actionsheet_top_selector.xml"
+    },
+    {
+        "merged": "/Users/wusourece/Desktop/FunctionList/app/build/intermediates/res/merged/arm/debug/drawable/abc_ratingbar_material.xml",
+        "source": "/Users/wusourece/Desktop/FunctionList/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/24.2.1/res/drawable/abc_ratingbar_material.xml"
+    },
+    {
+        "merged": "/Users/wusourece/Desktop/FunctionList/app/build/intermediates/res/merged/arm/debug/drawable/abc_item_background_holo_dark.xml",
+        "source": "/Users/wusourece/Desktop/FunctionList/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/24.2.1/res/drawable/abc_item_background_holo_dark.xml"
+    },
+    {
+        "merged": "/Users/wusourece/Desktop/FunctionList/app/build/intermediates/res/merged/arm/debug/drawable/abc_list_selector_holo_dark.xml",
+        "source": "/Users/wusourece/Desktop/FunctionList/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/24.2.1/res/drawable/abc_list_selector_holo_dark.xml"
+    },
+    {
+        "merged": "/Users/wusourece/Desktop/FunctionList/app/build/intermediates/res/merged/arm/debug/drawable/abc_ic_clear_material.xml",
+        "source": "/Users/wusourece/Desktop/FunctionList/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/24.2.1/res/drawable/abc_ic_clear_material.xml"
+    },
+    {
+        "merged": "/Users/wusourece/Desktop/FunctionList/app/build/intermediates/res/merged/arm/debug/drawable/abc_ic_ab_back_material.xml",
+        "source": "/Users/wusourece/Desktop/FunctionList/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/24.2.1/res/drawable/abc_ic_ab_back_material.xml"
+    },
+    {
+        "merged": "/Users/wusourece/Desktop/FunctionList/app/build/intermediates/res/merged/arm/debug/drawable/abc_btn_radio_material.xml",
+        "source": "/Users/wusourece/Desktop/FunctionList/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/24.2.1/res/drawable/abc_btn_radio_material.xml"
+    },
+    {
+        "merged": "/Users/wusourece/Desktop/FunctionList/app/build/intermediates/res/merged/arm/debug/drawable/abc_btn_check_material.xml",
+        "source": "/Users/wusourece/Desktop/FunctionList/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/24.2.1/res/drawable/abc_btn_check_material.xml"
+    },
+    {
+        "merged": "/Users/wusourece/Desktop/FunctionList/app/build/intermediates/res/merged/arm/debug/drawable/recording_text_bg.xml",
+        "source": "/Users/wusourece/Desktop/FunctionList/app/src/main/res/drawable/recording_text_bg.xml"
+    },
+    {
+        "merged": "/Users/wusourece/Desktop/FunctionList/app/build/intermediates/res/merged/arm/debug/drawable/abc_item_background_holo_light.xml",
+        "source": "/Users/wusourece/Desktop/FunctionList/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/24.2.1/res/drawable/abc_item_background_holo_light.xml"
+    },
+    {
+        "merged": "/Users/wusourece/Desktop/FunctionList/app/build/intermediates/res/merged/arm/debug/drawable/abc_tab_indicator_material.xml",
+        "source": "/Users/wusourece/Desktop/FunctionList/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/24.2.1/res/drawable/abc_tab_indicator_material.xml"
+    },
+    {
+        "merged": "/Users/wusourece/Desktop/FunctionList/app/build/intermediates/res/merged/arm/debug/drawable/button_comment_item.xml",
+        "source": "/Users/wusourece/Desktop/FunctionList/app/src/main/res/drawable/button_comment_item.xml"
+    },
+    {
+        "merged": "/Users/wusourece/Desktop/FunctionList/app/build/intermediates/res/merged/arm/debug/drawable/ic_launcher.png",
+        "source": "/Users/wusourece/Desktop/FunctionList/app/src/main/res/drawable/ic_launcher.png"
+    },
+    {
+        "merged": "/Users/wusourece/Desktop/FunctionList/app/build/intermediates/res/merged/arm/debug/drawable/abc_textfield_search_material.xml",
+        "source": "/Users/wusourece/Desktop/FunctionList/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/24.2.1/res/drawable/abc_textfield_search_material.xml"
+    },
+    {
+        "merged": "/Users/wusourece/Desktop/FunctionList/app/build/intermediates/res/merged/arm/debug/drawable/abc_seekbar_thumb_material.xml",
+        "source": "/Users/wusourece/Desktop/FunctionList/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/24.2.1/res/drawable/abc_seekbar_thumb_material.xml"
+    },
+    {
+        "merged": "/Users/wusourece/Desktop/FunctionList/app/build/intermediates/res/merged/arm/debug/drawable/btn_nor_bg.xml",
+        "source": "/Users/wusourece/Desktop/FunctionList/app/src/main/res/drawable/btn_nor_bg.xml"
+    },
+    {
+        "merged": "/Users/wusourece/Desktop/FunctionList/app/build/intermediates/res/merged/arm/debug/drawable/abc_text_cursor_material.xml",
+        "source": "/Users/wusourece/Desktop/FunctionList/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/24.2.1/res/drawable/abc_text_cursor_material.xml"
+    },
+    {
+        "merged": "/Users/wusourece/Desktop/FunctionList/app/build/intermediates/res/merged/arm/debug/drawable/selector_gird_item.xml",
+        "source": "/Users/wusourece/Desktop/FunctionList/app/src/main/res/drawable/selector_gird_item.xml"
+    },
+    {
+        "merged": "/Users/wusourece/Desktop/FunctionList/app/build/intermediates/res/merged/arm/debug/drawable/abc_ic_go_search_api_material.xml",
+        "source": "/Users/wusourece/Desktop/FunctionList/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/24.2.1/res/drawable/abc_ic_go_search_api_material.xml"
+    },
+    {
+        "merged": "/Users/wusourece/Desktop/FunctionList/app/build/intermediates/res/merged/arm/debug/drawable/toast_back.xml",
+        "source": "/Users/wusourece/Desktop/FunctionList/app/src/main/res/drawable/toast_back.xml"
+    },
+    {
+        "merged": "/Users/wusourece/Desktop/FunctionList/app/build/intermediates/res/merged/arm/debug/drawable/alertdialog_right_selector.xml",
+        "source": "/Users/wusourece/Desktop/FunctionList/app/src/main/res/drawable/alertdialog_right_selector.xml"
+    },
+    {
+        "merged": "/Users/wusourece/Desktop/FunctionList/app/build/intermediates/res/merged/arm/debug/drawable/btn_color_bg.xml",
+        "source": "/Users/wusourece/Desktop/FunctionList/app/src/main/res/drawable/btn_color_bg.xml"
+    },
+    {
+        "merged": "/Users/wusourece/Desktop/FunctionList/app/build/intermediates/res/merged/arm/debug/drawable/img_psw_bg.xml",
+        "source": "/Users/wusourece/Desktop/FunctionList/app/src/main/res/drawable/img_psw_bg.xml"
+    },
+    {
+        "merged": "/Users/wusourece/Desktop/FunctionList/app/build/intermediates/res/merged/arm/debug/drawable/abc_btn_colored_material.xml",
+        "source": "/Users/wusourece/Desktop/FunctionList/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/24.2.1/res/drawable/abc_btn_colored_material.xml"
+    },
+    {
+        "merged": "/Users/wusourece/Desktop/FunctionList/app/build/intermediates/res/merged/arm/debug/drawable/checked_03.png",
+        "source": "/Users/wusourece/Desktop/FunctionList/app/src/main/res/drawable/checked_03.png"
+    },
+    {
+        "merged": "/Users/wusourece/Desktop/FunctionList/app/build/intermediates/res/merged/arm/debug/drawable/abc_btn_borderless_material.xml",
+        "source": "/Users/wusourece/Desktop/FunctionList/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/24.2.1/res/drawable/abc_btn_borderless_material.xml"
+    },
+    {
+        "merged": "/Users/wusourece/Desktop/FunctionList/app/build/intermediates/res/merged/arm/debug/drawable/design_snackbar_background.xml",
+        "source": "/Users/wusourece/Desktop/FunctionList/app/build/intermediates/exploded-aar/com.android.support/design/24.2.1/res/drawable/design_snackbar_background.xml"
+    },
+    {
+        "merged": "/Users/wusourece/Desktop/FunctionList/app/build/intermediates/res/merged/arm/debug/drawable/font_140_03.png",
+        "source": "/Users/wusourece/Desktop/FunctionList/app/src/main/res/drawable/font_140_03.png"
+    },
+    {
+        "merged": "/Users/wusourece/Desktop/FunctionList/app/build/intermediates/res/merged/arm/debug/drawable/abc_vector_test.xml",
+        "source": "/Users/wusourece/Desktop/FunctionList/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/24.2.1/res/drawable/abc_vector_test.xml"
+    },
+    {
+        "merged": "/Users/wusourece/Desktop/FunctionList/app/build/intermediates/res/merged/arm/debug/drawable/abc_list_selector_background_transition_holo_light.xml",
+        "source": "/Users/wusourece/Desktop/FunctionList/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/24.2.1/res/drawable/abc_list_selector_background_transition_holo_light.xml"
+    },
+    {
+        "merged": "/Users/wusourece/Desktop/FunctionList/app/build/intermediates/res/merged/arm/debug/drawable/abc_switch_thumb_material.xml",
+        "source": "/Users/wusourece/Desktop/FunctionList/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/24.2.1/res/drawable/abc_switch_thumb_material.xml"
+    },
+    {
+        "merged": "/Users/wusourece/Desktop/FunctionList/app/build/intermediates/res/merged/arm/debug/drawable/bg_shape_photo.xml",
+        "source": "/Users/wusourece/Desktop/FunctionList/app/src/main/res/drawable/bg_shape_photo.xml"
+    },
+    {
+        "merged": "/Users/wusourece/Desktop/FunctionList/app/build/intermediates/res/merged/arm/debug/drawable/solid_line.xml",
+        "source": "/Users/wusourece/Desktop/FunctionList/app/src/main/res/drawable/solid_line.xml"
+    },
+    {
+        "merged": "/Users/wusourece/Desktop/FunctionList/app/build/intermediates/res/merged/arm/debug/drawable/abc_seekbar_tick_mark_material.xml",
+        "source": "/Users/wusourece/Desktop/FunctionList/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/24.2.1/res/drawable/abc_seekbar_tick_mark_material.xml"
+    },
+    {
+        "merged": "/Users/wusourece/Desktop/FunctionList/app/build/intermediates/res/merged/arm/debug/drawable/abc_ic_menu_overflow_material.xml",
+        "source": "/Users/wusourece/Desktop/FunctionList/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/24.2.1/res/drawable/abc_ic_menu_overflow_material.xml"
+    }
+]

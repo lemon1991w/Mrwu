@@ -1,0 +1,511 @@
+-- Merging decision tree log ---
+manifest
+ADDED from /Users/wusourece/Desktop/FunctionList/app/src/main/AndroidManifest.xml:2:1-251:12
+	package
+		ADDED from /Users/wusourece/Desktop/FunctionList/app/src/main/AndroidManifest.xml:3:5-41
+		INJECTED from /Users/wusourece/Desktop/FunctionList/app/src/main/AndroidManifest.xml
+		INJECTED from /Users/wusourece/Desktop/FunctionList/app/src/main/AndroidManifest.xml
+	android:versionName
+		ADDED from /Users/wusourece/Desktop/FunctionList/app/src/main/AndroidManifest.xml:5:5-30
+		INJECTED from /Users/wusourece/Desktop/FunctionList/app/src/main/AndroidManifest.xml
+		INJECTED from /Users/wusourece/Desktop/FunctionList/app/src/main/AndroidManifest.xml
+	android:versionCode
+		ADDED from /Users/wusourece/Desktop/FunctionList/app/src/main/AndroidManifest.xml:4:5-28
+		INJECTED from /Users/wusourece/Desktop/FunctionList/app/src/main/AndroidManifest.xml
+		INJECTED from /Users/wusourece/Desktop/FunctionList/app/src/main/AndroidManifest.xml
+	xmlns:android
+		ADDED from /Users/wusourece/Desktop/FunctionList/app/src/main/AndroidManifest.xml:2:11-69
+uses-sdk
+ADDED from /Users/wusourece/Desktop/FunctionList/app/src/main/AndroidManifest.xml:7:5-9:41
+MERGED from [FunctionList:recyclerview:unspecified] /Users/wusourece/Desktop/FunctionList/app/build/intermediates/exploded-aar/FunctionList/recyclerview/unspecified/AndroidManifest.xml:7:5-9:41
+MERGED from [com.android.support:appcompat-v7:24.2.1] /Users/wusourece/Desktop/FunctionList/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/24.2.1/AndroidManifest.xml:21:5-23:78
+MERGED from [com.android.support:support-v4:24.2.1] /Users/wusourece/Desktop/FunctionList/app/build/intermediates/exploded-aar/com.android.support/support-v4/24.2.1/AndroidManifest.xml:21:5-23:54
+MERGED from [com.android.support:support-compat:24.2.1] /Users/wusourece/Desktop/FunctionList/app/build/intermediates/exploded-aar/com.android.support/support-compat/24.2.1/AndroidManifest.xml:21:5-23:58
+MERGED from [com.android.support:support-media-compat:24.2.1] /Users/wusourece/Desktop/FunctionList/app/build/intermediates/exploded-aar/com.android.support/support-media-compat/24.2.1/AndroidManifest.xml:21:5-23:63
+MERGED from [com.android.support:support-core-utils:24.2.1] /Users/wusourece/Desktop/FunctionList/app/build/intermediates/exploded-aar/com.android.support/support-core-utils/24.2.1/AndroidManifest.xml:21:5-23:61
+MERGED from [com.android.support:support-core-ui:24.2.1] /Users/wusourece/Desktop/FunctionList/app/build/intermediates/exploded-aar/com.android.support/support-core-ui/24.2.1/AndroidManifest.xml:21:5-23:58
+MERGED from [com.android.support:support-fragment:24.2.1] /Users/wusourece/Desktop/FunctionList/app/build/intermediates/exploded-aar/com.android.support/support-fragment/24.2.1/AndroidManifest.xml:21:5-23:60
+MERGED from [com.android.support:support-vector-drawable:24.2.1] /Users/wusourece/Desktop/FunctionList/app/build/intermediates/exploded-aar/com.android.support/support-vector-drawable/24.2.1/AndroidManifest.xml:21:5-43
+MERGED from [com.android.support:animated-vector-drawable:24.2.1] /Users/wusourece/Desktop/FunctionList/app/build/intermediates/exploded-aar/com.android.support/animated-vector-drawable/24.2.1/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:cardview-v7:23.4.0] /Users/wusourece/Desktop/FunctionList/app/build/intermediates/exploded-aar/com.android.support/cardview-v7/23.4.0/AndroidManifest.xml:20:5-43
+MERGED from [com.android.support:recyclerview-v7:24.2.1] /Users/wusourece/Desktop/FunctionList/app/build/intermediates/exploded-aar/com.android.support/recyclerview-v7/24.2.1/AndroidManifest.xml:20:5-43
+MERGED from [com.android.support:design:24.2.1] /Users/wusourece/Desktop/FunctionList/app/build/intermediates/exploded-aar/com.android.support/design/24.2.1/AndroidManifest.xml:20:5-43
+MERGED from [me.dm7.barcodescanner:zxing:1.9] /Users/wusourece/Desktop/FunctionList/app/build/intermediates/exploded-aar/me.dm7.barcodescanner/zxing/1.9/AndroidManifest.xml:7:5-9:41
+MERGED from [me.dm7.barcodescanner:core:1.9] /Users/wusourece/Desktop/FunctionList/app/build/intermediates/exploded-aar/me.dm7.barcodescanner/core/1.9/AndroidManifest.xml:7:5-9:41
+MERGED from [com.pnikosis:materialish-progress:1.2] /Users/wusourece/Desktop/FunctionList/app/build/intermediates/exploded-aar/com.pnikosis/materialish-progress/1.2/AndroidManifest.xml:7:5-9:41
+MERGED from [com.czt.mp3recorder:library:1.0.4] /Users/wusourece/Desktop/FunctionList/app/build/intermediates/exploded-aar/com.czt.mp3recorder/library/1.0.4/AndroidManifest.xml:7:5-9:41
+	tools:overrideLibrary
+		ADDED from [com.android.support:appcompat-v7:24.2.1] /Users/wusourece/Desktop/FunctionList/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/24.2.1/AndroidManifest.xml:23:9-75
+	android:targetSdkVersion
+		ADDED from /Users/wusourece/Desktop/FunctionList/app/src/main/AndroidManifest.xml:9:9-38
+		INJECTED from /Users/wusourece/Desktop/FunctionList/app/src/main/AndroidManifest.xml
+		INJECTED from /Users/wusourece/Desktop/FunctionList/app/src/main/AndroidManifest.xml
+	android:minSdkVersion
+		ADDED from /Users/wusourece/Desktop/FunctionList/app/src/main/AndroidManifest.xml:8:9-34
+		INJECTED from /Users/wusourece/Desktop/FunctionList/app/src/main/AndroidManifest.xml
+		INJECTED from /Users/wusourece/Desktop/FunctionList/app/src/main/AndroidManifest.xml
+uses-permission#android.permission.BAIDU_LOCATION_SERVICE
+ADDED from /Users/wusourece/Desktop/FunctionList/app/src/main/AndroidManifest.xml:11:5-97
+	android:name
+		ADDED from /Users/wusourece/Desktop/FunctionList/app/src/main/AndroidManifest.xml:11:22-78
+uses-permission#android.permission.ACCESS_NETWORK_STATE
+ADDED from /Users/wusourece/Desktop/FunctionList/app/src/main/AndroidManifest.xml:12:5-95
+	android:name
+		ADDED from /Users/wusourece/Desktop/FunctionList/app/src/main/AndroidManifest.xml:12:22-76
+uses-permission#android.permission.ACCESS_COARSE_LOCATION
+ADDED from /Users/wusourece/Desktop/FunctionList/app/src/main/AndroidManifest.xml:13:5-97
+	android:name
+		ADDED from /Users/wusourece/Desktop/FunctionList/app/src/main/AndroidManifest.xml:13:22-78
+uses-permission#android.permission.INTERNET
+ADDED from /Users/wusourece/Desktop/FunctionList/app/src/main/AndroidManifest.xml:14:5-83
+	android:name
+		ADDED from /Users/wusourece/Desktop/FunctionList/app/src/main/AndroidManifest.xml:14:22-64
+uses-permission#android.permission.ACCESS_FINE_LOCATION
+ADDED from /Users/wusourece/Desktop/FunctionList/app/src/main/AndroidManifest.xml:16:5-95
+	android:name
+		ADDED from /Users/wusourece/Desktop/FunctionList/app/src/main/AndroidManifest.xml:16:22-76
+uses-permission#com.android.launcher.permission.READ_SETTINGS
+ADDED from /Users/wusourece/Desktop/FunctionList/app/src/main/AndroidManifest.xml:17:5-85
+	android:name
+		ADDED from /Users/wusourece/Desktop/FunctionList/app/src/main/AndroidManifest.xml:17:22-82
+uses-permission#android.permission.WAKE_LOCK
+ADDED from /Users/wusourece/Desktop/FunctionList/app/src/main/AndroidManifest.xml:18:5-84
+	android:name
+		ADDED from /Users/wusourece/Desktop/FunctionList/app/src/main/AndroidManifest.xml:18:22-65
+uses-permission#android.permission.CHANGE_WIFI_STATE
+ADDED from /Users/wusourece/Desktop/FunctionList/app/src/main/AndroidManifest.xml:19:5-76
+	android:name
+		ADDED from /Users/wusourece/Desktop/FunctionList/app/src/main/AndroidManifest.xml:19:22-73
+uses-permission#android.permission.ACCESS_WIFI_STATE
+ADDED from /Users/wusourece/Desktop/FunctionList/app/src/main/AndroidManifest.xml:20:5-76
+	android:name
+		ADDED from /Users/wusourece/Desktop/FunctionList/app/src/main/AndroidManifest.xml:20:22-73
+uses-permission#android.permission.ACCESS_GPS
+ADDED from /Users/wusourece/Desktop/FunctionList/app/src/main/AndroidManifest.xml:21:5-69
+	android:name
+		ADDED from /Users/wusourece/Desktop/FunctionList/app/src/main/AndroidManifest.xml:21:22-66
+uses-permission#android.permission.READ_PHONE_STATE
+ADDED from /Users/wusourece/Desktop/FunctionList/app/src/main/AndroidManifest.xml:22:5-75
+	android:name
+		ADDED from /Users/wusourece/Desktop/FunctionList/app/src/main/AndroidManifest.xml:22:22-72
+uses-permission#android.permission.READ_CONTACTS
+ADDED from /Users/wusourece/Desktop/FunctionList/app/src/main/AndroidManifest.xml:23:5-72
+	android:name
+		ADDED from /Users/wusourece/Desktop/FunctionList/app/src/main/AndroidManifest.xml:23:22-69
+uses-permission#android.permission.CALL_PHONE
+ADDED from /Users/wusourece/Desktop/FunctionList/app/src/main/AndroidManifest.xml:24:5-69
+	android:name
+		ADDED from /Users/wusourece/Desktop/FunctionList/app/src/main/AndroidManifest.xml:24:22-66
+uses-permission#android.permission.READ_SMS
+ADDED from /Users/wusourece/Desktop/FunctionList/app/src/main/AndroidManifest.xml:25:5-67
+	android:name
+		ADDED from /Users/wusourece/Desktop/FunctionList/app/src/main/AndroidManifest.xml:25:22-64
+uses-permission#android.permission.SEND_SMS
+ADDED from /Users/wusourece/Desktop/FunctionList/app/src/main/AndroidManifest.xml:26:5-67
+	android:name
+		ADDED from /Users/wusourece/Desktop/FunctionList/app/src/main/AndroidManifest.xml:26:22-64
+uses-permission#android.permission.GET_TASKS
+ADDED from /Users/wusourece/Desktop/FunctionList/app/src/main/AndroidManifest.xml:28:5-68
+	android:name
+		ADDED from /Users/wusourece/Desktop/FunctionList/app/src/main/AndroidManifest.xml:28:22-65
+uses-permission#android.permission.CAMERA
+ADDED from /Users/wusourece/Desktop/FunctionList/app/src/main/AndroidManifest.xml:29:5-81
+	android:name
+		ADDED from /Users/wusourece/Desktop/FunctionList/app/src/main/AndroidManifest.xml:29:22-62
+uses-permission#android.permission.RECORD_AUDIO
+ADDED from /Users/wusourece/Desktop/FunctionList/app/src/main/AndroidManifest.xml:30:5-87
+MERGED from [com.czt.mp3recorder:library:1.0.4] /Users/wusourece/Desktop/FunctionList/app/build/intermediates/exploded-aar/com.czt.mp3recorder/library/1.0.4/AndroidManifest.xml:11:5-71
+	android:name
+		ADDED from /Users/wusourece/Desktop/FunctionList/app/src/main/AndroidManifest.xml:30:22-68
+uses-permission#android.permission.WRITE_EXTERNAL_STORAGE
+ADDED from /Users/wusourece/Desktop/FunctionList/app/src/main/AndroidManifest.xml:31:5-97
+MERGED from [com.czt.mp3recorder:library:1.0.4] /Users/wusourece/Desktop/FunctionList/app/build/intermediates/exploded-aar/com.czt.mp3recorder/library/1.0.4/AndroidManifest.xml:12:5-81
+	android:name
+		ADDED from /Users/wusourece/Desktop/FunctionList/app/src/main/AndroidManifest.xml:31:22-78
+uses-permission#android.permission.RECEIVE_BOOT_COMPLETED
+ADDED from /Users/wusourece/Desktop/FunctionList/app/src/main/AndroidManifest.xml:32:5-81
+	android:name
+		ADDED from /Users/wusourece/Desktop/FunctionList/app/src/main/AndroidManifest.xml:32:22-78
+uses-permission#android.permission.BROADCAST_STICKY
+ADDED from /Users/wusourece/Desktop/FunctionList/app/src/main/AndroidManifest.xml:33:5-75
+	android:name
+		ADDED from /Users/wusourece/Desktop/FunctionList/app/src/main/AndroidManifest.xml:33:22-72
+uses-permission#android.permission.WRITE_SETTINGS
+ADDED from /Users/wusourece/Desktop/FunctionList/app/src/main/AndroidManifest.xml:34:5-73
+	android:name
+		ADDED from /Users/wusourece/Desktop/FunctionList/app/src/main/AndroidManifest.xml:34:22-70
+uses-permission#android.permission.PROCESS_OUTGOING_CALLS
+ADDED from /Users/wusourece/Desktop/FunctionList/app/src/main/AndroidManifest.xml:36:5-97
+	android:name
+		ADDED from /Users/wusourece/Desktop/FunctionList/app/src/main/AndroidManifest.xml:36:22-78
+uses-permission#android.permission.MODIFY_AUDIO_SETTINGS
+ADDED from /Users/wusourece/Desktop/FunctionList/app/src/main/AndroidManifest.xml:38:5-80
+	android:name
+		ADDED from /Users/wusourece/Desktop/FunctionList/app/src/main/AndroidManifest.xml:38:22-77
+uses-permission#android.permission.VIBRATE
+ADDED from /Users/wusourece/Desktop/FunctionList/app/src/main/AndroidManifest.xml:39:5-66
+	android:name
+		ADDED from /Users/wusourece/Desktop/FunctionList/app/src/main/AndroidManifest.xml:39:22-63
+application
+ADDED from /Users/wusourece/Desktop/FunctionList/app/src/main/AndroidManifest.xml:45:5-249:19
+MERGED from [FunctionList:recyclerview:unspecified] /Users/wusourece/Desktop/FunctionList/app/build/intermediates/exploded-aar/FunctionList/recyclerview/unspecified/AndroidManifest.xml:11:5-15:19
+MERGED from [com.android.support:appcompat-v7:24.2.1] /Users/wusourece/Desktop/FunctionList/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/24.2.1/AndroidManifest.xml:25:5-20
+MERGED from [com.android.support:support-v4:24.2.1] /Users/wusourece/Desktop/FunctionList/app/build/intermediates/exploded-aar/com.android.support/support-v4/24.2.1/AndroidManifest.xml:25:5-20
+MERGED from [com.android.support:support-compat:24.2.1] /Users/wusourece/Desktop/FunctionList/app/build/intermediates/exploded-aar/com.android.support/support-compat/24.2.1/AndroidManifest.xml:25:5-20
+MERGED from [com.android.support:support-media-compat:24.2.1] /Users/wusourece/Desktop/FunctionList/app/build/intermediates/exploded-aar/com.android.support/support-media-compat/24.2.1/AndroidManifest.xml:25:5-20
+MERGED from [com.android.support:support-core-utils:24.2.1] /Users/wusourece/Desktop/FunctionList/app/build/intermediates/exploded-aar/com.android.support/support-core-utils/24.2.1/AndroidManifest.xml:25:5-20
+MERGED from [com.android.support:support-core-ui:24.2.1] /Users/wusourece/Desktop/FunctionList/app/build/intermediates/exploded-aar/com.android.support/support-core-ui/24.2.1/AndroidManifest.xml:25:5-20
+MERGED from [com.android.support:support-fragment:24.2.1] /Users/wusourece/Desktop/FunctionList/app/build/intermediates/exploded-aar/com.android.support/support-fragment/24.2.1/AndroidManifest.xml:25:5-20
+MERGED from [com.android.support:support-vector-drawable:24.2.1] /Users/wusourece/Desktop/FunctionList/app/build/intermediates/exploded-aar/com.android.support/support-vector-drawable/24.2.1/AndroidManifest.xml:23:5-20
+MERGED from [com.android.support:animated-vector-drawable:24.2.1] /Users/wusourece/Desktop/FunctionList/app/build/intermediates/exploded-aar/com.android.support/animated-vector-drawable/24.2.1/AndroidManifest.xml:22:5-20
+MERGED from [com.android.support:cardview-v7:23.4.0] /Users/wusourece/Desktop/FunctionList/app/build/intermediates/exploded-aar/com.android.support/cardview-v7/23.4.0/AndroidManifest.xml:22:5-20
+MERGED from [com.android.support:design:24.2.1] /Users/wusourece/Desktop/FunctionList/app/build/intermediates/exploded-aar/com.android.support/design/24.2.1/AndroidManifest.xml:22:5-20
+MERGED from [me.dm7.barcodescanner:zxing:1.9] /Users/wusourece/Desktop/FunctionList/app/build/intermediates/exploded-aar/me.dm7.barcodescanner/zxing/1.9/AndroidManifest.xml:11:5-20
+MERGED from [me.dm7.barcodescanner:core:1.9] /Users/wusourece/Desktop/FunctionList/app/build/intermediates/exploded-aar/me.dm7.barcodescanner/core/1.9/AndroidManifest.xml:11:5-20
+MERGED from [com.pnikosis:materialish-progress:1.2] /Users/wusourece/Desktop/FunctionList/app/build/intermediates/exploded-aar/com.pnikosis/materialish-progress/1.2/AndroidManifest.xml:11:5-20
+	android:label
+		ADDED from /Users/wusourece/Desktop/FunctionList/app/src/main/AndroidManifest.xml:49:9-41
+	android:supportsRtl
+		ADDED from [FunctionList:recyclerview:unspecified] /Users/wusourece/Desktop/FunctionList/app/build/intermediates/exploded-aar/FunctionList/recyclerview/unspecified/AndroidManifest.xml:14:9-35
+	android:allowBackup
+		ADDED from /Users/wusourece/Desktop/FunctionList/app/src/main/AndroidManifest.xml:47:9-35
+	android:icon
+		ADDED from /Users/wusourece/Desktop/FunctionList/app/src/main/AndroidManifest.xml:48:9-39
+	android:theme
+		ADDED from /Users/wusourece/Desktop/FunctionList/app/src/main/AndroidManifest.xml:50:9-40
+	android:name
+		ADDED from /Users/wusourece/Desktop/FunctionList/app/src/main/AndroidManifest.xml:46:9-54
+activity#com.main.functionlistsdemo.MainActivity
+ADDED from /Users/wusourece/Desktop/FunctionList/app/src/main/AndroidManifest.xml:51:9-59:20
+	android:label
+		ADDED from /Users/wusourece/Desktop/FunctionList/app/src/main/AndroidManifest.xml:53:13-45
+	android:name
+		ADDED from /Users/wusourece/Desktop/FunctionList/app/src/main/AndroidManifest.xml:52:13-67
+intent-filter#android.intent.action.MAIN+android.intent.category.LAUNCHER
+ADDED from /Users/wusourece/Desktop/FunctionList/app/src/main/AndroidManifest.xml:54:13-58:29
+action#android.intent.action.MAIN
+ADDED from /Users/wusourece/Desktop/FunctionList/app/src/main/AndroidManifest.xml:55:17-69
+	android:name
+		ADDED from /Users/wusourece/Desktop/FunctionList/app/src/main/AndroidManifest.xml:55:25-66
+category#android.intent.category.LAUNCHER
+ADDED from /Users/wusourece/Desktop/FunctionList/app/src/main/AndroidManifest.xml:57:17-77
+	android:name
+		ADDED from /Users/wusourece/Desktop/FunctionList/app/src/main/AndroidManifest.xml:57:27-74
+activity#com.viewpager.fragment.MainPager
+ADDED from /Users/wusourece/Desktop/FunctionList/app/src/main/AndroidManifest.xml:61:9-64:57
+	android:screenOrientation
+		ADDED from /Users/wusourece/Desktop/FunctionList/app/src/main/AndroidManifest.xml:63:13-49
+	android:label
+		ADDED from /Users/wusourece/Desktop/FunctionList/app/src/main/AndroidManifest.xml:64:13-55
+	android:name
+		ADDED from /Users/wusourece/Desktop/FunctionList/app/src/main/AndroidManifest.xml:62:13-60
+activity#com.imageloader.ImageLoaderDemo
+ADDED from /Users/wusourece/Desktop/FunctionList/app/src/main/AndroidManifest.xml:66:9-69:51
+	android:screenOrientation
+		ADDED from /Users/wusourece/Desktop/FunctionList/app/src/main/AndroidManifest.xml:68:13-49
+	android:label
+		ADDED from /Users/wusourece/Desktop/FunctionList/app/src/main/AndroidManifest.xml:69:13-49
+	android:name
+		ADDED from /Users/wusourece/Desktop/FunctionList/app/src/main/AndroidManifest.xml:67:13-59
+activity#com.net.connection.MainNetConnection
+ADDED from /Users/wusourece/Desktop/FunctionList/app/src/main/AndroidManifest.xml:71:9-74:53
+	android:screenOrientation
+		ADDED from /Users/wusourece/Desktop/FunctionList/app/src/main/AndroidManifest.xml:73:13-49
+	android:label
+		ADDED from /Users/wusourece/Desktop/FunctionList/app/src/main/AndroidManifest.xml:74:13-51
+	android:name
+		ADDED from /Users/wusourece/Desktop/FunctionList/app/src/main/AndroidManifest.xml:72:13-64
+activity#com.immersive.demo.MainImmersive
+ADDED from /Users/wusourece/Desktop/FunctionList/app/src/main/AndroidManifest.xml:76:9-79:55
+	android:screenOrientation
+		ADDED from /Users/wusourece/Desktop/FunctionList/app/src/main/AndroidManifest.xml:78:13-49
+	android:label
+		ADDED from /Users/wusourece/Desktop/FunctionList/app/src/main/AndroidManifest.xml:79:13-53
+	android:name
+		ADDED from /Users/wusourece/Desktop/FunctionList/app/src/main/AndroidManifest.xml:77:13-60
+activity#com.show.more.ClickShowMore
+ADDED from /Users/wusourece/Desktop/FunctionList/app/src/main/AndroidManifest.xml:81:9-84:61
+	android:screenOrientation
+		ADDED from /Users/wusourece/Desktop/FunctionList/app/src/main/AndroidManifest.xml:83:13-49
+	android:label
+		ADDED from /Users/wusourece/Desktop/FunctionList/app/src/main/AndroidManifest.xml:84:13-59
+	android:name
+		ADDED from /Users/wusourece/Desktop/FunctionList/app/src/main/AndroidManifest.xml:82:13-55
+activity#com.shopping.cart.MainShoppingCart
+ADDED from /Users/wusourece/Desktop/FunctionList/app/src/main/AndroidManifest.xml:86:9-89:51
+	android:screenOrientation
+		ADDED from /Users/wusourece/Desktop/FunctionList/app/src/main/AndroidManifest.xml:88:13-49
+	android:label
+		ADDED from /Users/wusourece/Desktop/FunctionList/app/src/main/AndroidManifest.xml:89:13-49
+	android:name
+		ADDED from /Users/wusourece/Desktop/FunctionList/app/src/main/AndroidManifest.xml:87:13-62
+activity#com.net.request.more.MainNetRequest
+ADDED from /Users/wusourece/Desktop/FunctionList/app/src/main/AndroidManifest.xml:91:9-94:53
+	android:screenOrientation
+		ADDED from /Users/wusourece/Desktop/FunctionList/app/src/main/AndroidManifest.xml:93:13-49
+	android:label
+		ADDED from /Users/wusourece/Desktop/FunctionList/app/src/main/AndroidManifest.xml:94:13-51
+	android:name
+		ADDED from /Users/wusourece/Desktop/FunctionList/app/src/main/AndroidManifest.xml:92:13-63
+activity#com.comment.reply.MainCommentReply
+ADDED from /Users/wusourece/Desktop/FunctionList/app/src/main/AndroidManifest.xml:96:9-99:51
+	android:screenOrientation
+		ADDED from /Users/wusourece/Desktop/FunctionList/app/src/main/AndroidManifest.xml:98:13-49
+	android:label
+		ADDED from /Users/wusourece/Desktop/FunctionList/app/src/main/AndroidManifest.xml:99:13-49
+	android:name
+		ADDED from /Users/wusourece/Desktop/FunctionList/app/src/main/AndroidManifest.xml:97:13-62
+activity#com.imitation.ios.dialog.ImitationIosDialogActivity
+ADDED from /Users/wusourece/Desktop/FunctionList/app/src/main/AndroidManifest.xml:101:9-104:59
+	android:screenOrientation
+		ADDED from /Users/wusourece/Desktop/FunctionList/app/src/main/AndroidManifest.xml:103:13-49
+	android:label
+		ADDED from /Users/wusourece/Desktop/FunctionList/app/src/main/AndroidManifest.xml:104:13-57
+	android:name
+		ADDED from /Users/wusourece/Desktop/FunctionList/app/src/main/AndroidManifest.xml:102:13-79
+activity#com.date.and.nimaiton.MainListActivity
+ADDED from /Users/wusourece/Desktop/FunctionList/app/src/main/AndroidManifest.xml:106:9-109:55
+	android:screenOrientation
+		ADDED from /Users/wusourece/Desktop/FunctionList/app/src/main/AndroidManifest.xml:108:13-49
+	android:label
+		ADDED from /Users/wusourece/Desktop/FunctionList/app/src/main/AndroidManifest.xml:109:13-53
+	android:name
+		ADDED from /Users/wusourece/Desktop/FunctionList/app/src/main/AndroidManifest.xml:107:13-66
+activity#com.date.and.nimaiton.time.TimeActivity
+ADDED from /Users/wusourece/Desktop/FunctionList/app/src/main/AndroidManifest.xml:110:9-112:52
+	android:screenOrientation
+		ADDED from /Users/wusourece/Desktop/FunctionList/app/src/main/AndroidManifest.xml:112:13-49
+	android:name
+		ADDED from /Users/wusourece/Desktop/FunctionList/app/src/main/AndroidManifest.xml:111:13-67
+activity#com.date.and.nimaiton.nimation.AnimationActivity
+ADDED from /Users/wusourece/Desktop/FunctionList/app/src/main/AndroidManifest.xml:113:9-116:53
+	android:screenOrientation
+		ADDED from /Users/wusourece/Desktop/FunctionList/app/src/main/AndroidManifest.xml:115:13-49
+	android:label
+		ADDED from /Users/wusourece/Desktop/FunctionList/app/src/main/AndroidManifest.xml:116:13-51
+	android:name
+		ADDED from /Users/wusourece/Desktop/FunctionList/app/src/main/AndroidManifest.xml:114:13-76
+activity#com.date.and.nimaiton.nimation.OneActivity
+ADDED from /Users/wusourece/Desktop/FunctionList/app/src/main/AndroidManifest.xml:117:9-120:53
+	android:screenOrientation
+		ADDED from /Users/wusourece/Desktop/FunctionList/app/src/main/AndroidManifest.xml:119:13-49
+	android:label
+		ADDED from /Users/wusourece/Desktop/FunctionList/app/src/main/AndroidManifest.xml:120:13-51
+	android:name
+		ADDED from /Users/wusourece/Desktop/FunctionList/app/src/main/AndroidManifest.xml:118:13-70
+activity#com.date.and.nimaiton.nimation.TwoActivity
+ADDED from /Users/wusourece/Desktop/FunctionList/app/src/main/AndroidManifest.xml:121:9-124:53
+	android:screenOrientation
+		ADDED from /Users/wusourece/Desktop/FunctionList/app/src/main/AndroidManifest.xml:123:13-49
+	android:label
+		ADDED from /Users/wusourece/Desktop/FunctionList/app/src/main/AndroidManifest.xml:124:13-51
+	android:name
+		ADDED from /Users/wusourece/Desktop/FunctionList/app/src/main/AndroidManifest.xml:122:13-70
+activity#com.date.and.nimaiton.nimation.ThreeActivity
+ADDED from /Users/wusourece/Desktop/FunctionList/app/src/main/AndroidManifest.xml:125:9-128:53
+	android:screenOrientation
+		ADDED from /Users/wusourece/Desktop/FunctionList/app/src/main/AndroidManifest.xml:127:13-49
+	android:label
+		ADDED from /Users/wusourece/Desktop/FunctionList/app/src/main/AndroidManifest.xml:128:13-51
+	android:name
+		ADDED from /Users/wusourece/Desktop/FunctionList/app/src/main/AndroidManifest.xml:126:13-72
+activity#com.com.swipelayout.recyclerview.currentswipe.MainCustomSwipeRefresh
+ADDED from /Users/wusourece/Desktop/FunctionList/app/src/main/AndroidManifest.xml:130:9-133:52
+	android:screenOrientation
+		ADDED from /Users/wusourece/Desktop/FunctionList/app/src/main/AndroidManifest.xml:132:13-49
+	android:label
+		ADDED from /Users/wusourece/Desktop/FunctionList/app/src/main/AndroidManifest.xml:133:13-50
+	android:name
+		ADDED from /Users/wusourece/Desktop/FunctionList/app/src/main/AndroidManifest.xml:131:13-96
+activity#com.com.swipelayout.recyclerview.MainSwipeLayoutActivity
+ADDED from /Users/wusourece/Desktop/FunctionList/app/src/main/AndroidManifest.xml:134:9-137:52
+	android:screenOrientation
+		ADDED from /Users/wusourece/Desktop/FunctionList/app/src/main/AndroidManifest.xml:136:13-49
+	android:label
+		ADDED from /Users/wusourece/Desktop/FunctionList/app/src/main/AndroidManifest.xml:137:13-50
+	android:name
+		ADDED from /Users/wusourece/Desktop/FunctionList/app/src/main/AndroidManifest.xml:135:13-84
+activity#com.com.swipelayout.recyclerview.ui.SimpleRefreshActivity
+ADDED from /Users/wusourece/Desktop/FunctionList/app/src/main/AndroidManifest.xml:138:9-141:52
+	android:screenOrientation
+		ADDED from /Users/wusourece/Desktop/FunctionList/app/src/main/AndroidManifest.xml:140:13-49
+	android:label
+		ADDED from /Users/wusourece/Desktop/FunctionList/app/src/main/AndroidManifest.xml:141:13-50
+	android:name
+		ADDED from /Users/wusourece/Desktop/FunctionList/app/src/main/AndroidManifest.xml:139:13-85
+activity#com.com.swipelayout.recyclerview.ui.CustomHeaderActivity
+ADDED from /Users/wusourece/Desktop/FunctionList/app/src/main/AndroidManifest.xml:142:9-145:52
+	android:screenOrientation
+		ADDED from /Users/wusourece/Desktop/FunctionList/app/src/main/AndroidManifest.xml:144:13-49
+	android:label
+		ADDED from /Users/wusourece/Desktop/FunctionList/app/src/main/AndroidManifest.xml:145:13-50
+	android:name
+		ADDED from /Users/wusourece/Desktop/FunctionList/app/src/main/AndroidManifest.xml:143:13-84
+activity#com.keyboard.custom.MainKeyBoardActivity
+ADDED from /Users/wusourece/Desktop/FunctionList/app/src/main/AndroidManifest.xml:147:9-150:51
+	android:screenOrientation
+		ADDED from /Users/wusourece/Desktop/FunctionList/app/src/main/AndroidManifest.xml:149:13-49
+	android:label
+		ADDED from /Users/wusourece/Desktop/FunctionList/app/src/main/AndroidManifest.xml:150:13-49
+	android:name
+		ADDED from /Users/wusourece/Desktop/FunctionList/app/src/main/AndroidManifest.xml:148:13-68
+activity#com.keyboard.custom.NormalKeyBoardActivity
+ADDED from /Users/wusourece/Desktop/FunctionList/app/src/main/AndroidManifest.xml:151:9-154:51
+	android:screenOrientation
+		ADDED from /Users/wusourece/Desktop/FunctionList/app/src/main/AndroidManifest.xml:153:13-49
+	android:label
+		ADDED from /Users/wusourece/Desktop/FunctionList/app/src/main/AndroidManifest.xml:154:13-49
+	android:name
+		ADDED from /Users/wusourece/Desktop/FunctionList/app/src/main/AndroidManifest.xml:152:13-70
+activity#com.keyboard.custom.PaymentKeyboardActivity
+ADDED from /Users/wusourece/Desktop/FunctionList/app/src/main/AndroidManifest.xml:155:9-158:51
+	android:screenOrientation
+		ADDED from /Users/wusourece/Desktop/FunctionList/app/src/main/AndroidManifest.xml:157:13-49
+	android:label
+		ADDED from /Users/wusourece/Desktop/FunctionList/app/src/main/AndroidManifest.xml:158:13-49
+	android:name
+		ADDED from /Users/wusourece/Desktop/FunctionList/app/src/main/AndroidManifest.xml:156:13-71
+activity#com.banner.change.BannerActivity
+ADDED from /Users/wusourece/Desktop/FunctionList/app/src/main/AndroidManifest.xml:160:9-163:45
+	android:screenOrientation
+		ADDED from /Users/wusourece/Desktop/FunctionList/app/src/main/AndroidManifest.xml:162:13-49
+	android:label
+		ADDED from /Users/wusourece/Desktop/FunctionList/app/src/main/AndroidManifest.xml:163:13-43
+	android:name
+		ADDED from /Users/wusourece/Desktop/FunctionList/app/src/main/AndroidManifest.xml:161:13-60
+activity#com.progressbar.ProgressBarActivity
+ADDED from /Users/wusourece/Desktop/FunctionList/app/src/main/AndroidManifest.xml:165:9-168:51
+	android:screenOrientation
+		ADDED from /Users/wusourece/Desktop/FunctionList/app/src/main/AndroidManifest.xml:167:13-49
+	android:label
+		ADDED from /Users/wusourece/Desktop/FunctionList/app/src/main/AndroidManifest.xml:168:13-49
+	android:name
+		ADDED from /Users/wusourece/Desktop/FunctionList/app/src/main/AndroidManifest.xml:166:13-63
+activity#com.coordinatorlayout.header.CoordinatorLayoutActivity
+ADDED from /Users/wusourece/Desktop/FunctionList/app/src/main/AndroidManifest.xml:170:9-173:56
+	android:screenOrientation
+		ADDED from /Users/wusourece/Desktop/FunctionList/app/src/main/AndroidManifest.xml:172:13-49
+	android:label
+		ADDED from /Users/wusourece/Desktop/FunctionList/app/src/main/AndroidManifest.xml:173:13-54
+	android:name
+		ADDED from /Users/wusourece/Desktop/FunctionList/app/src/main/AndroidManifest.xml:171:13-82
+activity#com.SlidingTabLayout.SlidingTabActivity
+ADDED from /Users/wusourece/Desktop/FunctionList/app/src/main/AndroidManifest.xml:175:9-178:48
+	android:screenOrientation
+		ADDED from /Users/wusourece/Desktop/FunctionList/app/src/main/AndroidManifest.xml:177:13-49
+	android:label
+		ADDED from /Users/wusourece/Desktop/FunctionList/app/src/main/AndroidManifest.xml:178:13-46
+	android:name
+		ADDED from /Users/wusourece/Desktop/FunctionList/app/src/main/AndroidManifest.xml:176:13-67
+activity#com.LoveCurve.LoveCurveActivity
+ADDED from /Users/wusourece/Desktop/FunctionList/app/src/main/AndroidManifest.xml:180:9-183:48
+	android:screenOrientation
+		ADDED from /Users/wusourece/Desktop/FunctionList/app/src/main/AndroidManifest.xml:182:13-49
+	android:label
+		ADDED from /Users/wusourece/Desktop/FunctionList/app/src/main/AndroidManifest.xml:183:13-46
+	android:name
+		ADDED from /Users/wusourece/Desktop/FunctionList/app/src/main/AndroidManifest.xml:181:13-59
+activity#com.notification.bar.MainNotificationBar
+ADDED from /Users/wusourece/Desktop/FunctionList/app/src/main/AndroidManifest.xml:185:9-188:54
+	android:screenOrientation
+		ADDED from /Users/wusourece/Desktop/FunctionList/app/src/main/AndroidManifest.xml:187:13-49
+	android:label
+		ADDED from /Users/wusourece/Desktop/FunctionList/app/src/main/AndroidManifest.xml:188:13-52
+	android:name
+		ADDED from /Users/wusourece/Desktop/FunctionList/app/src/main/AndroidManifest.xml:186:13-68
+activity#com.suspension.bar.SupensionBarActivity
+ADDED from /Users/wusourece/Desktop/FunctionList/app/src/main/AndroidManifest.xml:190:9-193:53
+	android:screenOrientation
+		ADDED from /Users/wusourece/Desktop/FunctionList/app/src/main/AndroidManifest.xml:192:13-49
+	android:label
+		ADDED from /Users/wusourece/Desktop/FunctionList/app/src/main/AndroidManifest.xml:193:13-51
+	android:name
+		ADDED from /Users/wusourece/Desktop/FunctionList/app/src/main/AndroidManifest.xml:191:13-67
+activity#com.city.index.list.CityIndexListActivity
+ADDED from /Users/wusourece/Desktop/FunctionList/app/src/main/AndroidManifest.xml:195:9-198:54
+	android:screenOrientation
+		ADDED from /Users/wusourece/Desktop/FunctionList/app/src/main/AndroidManifest.xml:197:13-49
+	android:label
+		ADDED from /Users/wusourece/Desktop/FunctionList/app/src/main/AndroidManifest.xml:198:13-52
+	android:name
+		ADDED from /Users/wusourece/Desktop/FunctionList/app/src/main/AndroidManifest.xml:196:13-69
+activity#com.top.notification.TopNotification
+ADDED from /Users/wusourece/Desktop/FunctionList/app/src/main/AndroidManifest.xml:200:9-203:55
+	android:screenOrientation
+		ADDED from /Users/wusourece/Desktop/FunctionList/app/src/main/AndroidManifest.xml:202:13-49
+	android:label
+		ADDED from /Users/wusourece/Desktop/FunctionList/app/src/main/AndroidManifest.xml:203:13-53
+	android:name
+		ADDED from /Users/wusourece/Desktop/FunctionList/app/src/main/AndroidManifest.xml:201:13-64
+activity#com.camera.CameraActivity
+ADDED from /Users/wusourece/Desktop/FunctionList/app/src/main/AndroidManifest.xml:205:9-208:45
+	android:screenOrientation
+		ADDED from /Users/wusourece/Desktop/FunctionList/app/src/main/AndroidManifest.xml:207:13-49
+	android:label
+		ADDED from /Users/wusourece/Desktop/FunctionList/app/src/main/AndroidManifest.xml:208:13-43
+	android:name
+		ADDED from /Users/wusourece/Desktop/FunctionList/app/src/main/AndroidManifest.xml:206:13-53
+activity#com.zxing.code.QrcodeScannerActivity
+ADDED from /Users/wusourece/Desktop/FunctionList/app/src/main/AndroidManifest.xml:210:9-213:49
+	android:screenOrientation
+		ADDED from /Users/wusourece/Desktop/FunctionList/app/src/main/AndroidManifest.xml:212:13-49
+	android:label
+		ADDED from /Users/wusourece/Desktop/FunctionList/app/src/main/AndroidManifest.xml:213:13-47
+	android:name
+		ADDED from /Users/wusourece/Desktop/FunctionList/app/src/main/AndroidManifest.xml:211:13-64
+activity#com.sesame.annular.view.SesameCreditActivity
+ADDED from /Users/wusourece/Desktop/FunctionList/app/src/main/AndroidManifest.xml:215:9-218:58
+	android:screenOrientation
+		ADDED from /Users/wusourece/Desktop/FunctionList/app/src/main/AndroidManifest.xml:217:13-49
+	android:label
+		ADDED from /Users/wusourece/Desktop/FunctionList/app/src/main/AndroidManifest.xml:218:13-56
+	android:name
+		ADDED from /Users/wusourece/Desktop/FunctionList/app/src/main/AndroidManifest.xml:216:13-72
+activity#com.recording.test.RecordingTest
+ADDED from /Users/wusourece/Desktop/FunctionList/app/src/main/AndroidManifest.xml:220:9-223:52
+	android:screenOrientation
+		ADDED from /Users/wusourece/Desktop/FunctionList/app/src/main/AndroidManifest.xml:222:13-49
+	android:label
+		ADDED from /Users/wusourece/Desktop/FunctionList/app/src/main/AndroidManifest.xml:223:13-50
+	android:name
+		ADDED from /Users/wusourece/Desktop/FunctionList/app/src/main/AndroidManifest.xml:221:13-60
+activity#com.screen.shot.ScreenShotActivity
+ADDED from /Users/wusourece/Desktop/FunctionList/app/src/main/AndroidManifest.xml:225:9-228:49
+	android:screenOrientation
+		ADDED from /Users/wusourece/Desktop/FunctionList/app/src/main/AndroidManifest.xml:227:13-49
+	android:label
+		ADDED from /Users/wusourece/Desktop/FunctionList/app/src/main/AndroidManifest.xml:228:13-47
+	android:name
+		ADDED from /Users/wusourece/Desktop/FunctionList/app/src/main/AndroidManifest.xml:226:13-62
+activity#com.senior.custom.view.CustomViewOneActivity
+ADDED from /Users/wusourece/Desktop/FunctionList/app/src/main/AndroidManifest.xml:230:9-233:54
+	android:screenOrientation
+		ADDED from /Users/wusourece/Desktop/FunctionList/app/src/main/AndroidManifest.xml:232:13-49
+	android:label
+		ADDED from /Users/wusourece/Desktop/FunctionList/app/src/main/AndroidManifest.xml:233:13-52
+	android:name
+		ADDED from /Users/wusourece/Desktop/FunctionList/app/src/main/AndroidManifest.xml:231:13-72
+activity#com.senior.custom.view.CustomViewTwoActivity
+ADDED from /Users/wusourece/Desktop/FunctionList/app/src/main/AndroidManifest.xml:235:9-238:54
+	android:screenOrientation
+		ADDED from /Users/wusourece/Desktop/FunctionList/app/src/main/AndroidManifest.xml:237:13-49
+	android:label
+		ADDED from /Users/wusourece/Desktop/FunctionList/app/src/main/AndroidManifest.xml:238:13-52
+	android:name
+		ADDED from /Users/wusourece/Desktop/FunctionList/app/src/main/AndroidManifest.xml:236:13-72
+activity#com.senior.custom.view.CustomViewThreeActivity
+ADDED from /Users/wusourece/Desktop/FunctionList/app/src/main/AndroidManifest.xml:240:9-243:56
+	android:screenOrientation
+		ADDED from /Users/wusourece/Desktop/FunctionList/app/src/main/AndroidManifest.xml:242:13-49
+	android:label
+		ADDED from /Users/wusourece/Desktop/FunctionList/app/src/main/AndroidManifest.xml:243:13-54
+	android:name
+		ADDED from /Users/wusourece/Desktop/FunctionList/app/src/main/AndroidManifest.xml:241:13-74
+activity#com.senior.custom.view.AnnularProgressBarActivity
+ADDED from /Users/wusourece/Desktop/FunctionList/app/src/main/AndroidManifest.xml:245:9-248:59
+	android:screenOrientation
+		ADDED from /Users/wusourece/Desktop/FunctionList/app/src/main/AndroidManifest.xml:247:13-49
+	android:label
+		ADDED from /Users/wusourece/Desktop/FunctionList/app/src/main/AndroidManifest.xml:248:13-57
+	android:name
+		ADDED from /Users/wusourece/Desktop/FunctionList/app/src/main/AndroidManifest.xml:246:13-77

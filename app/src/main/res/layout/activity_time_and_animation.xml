@@ -1,0 +1,31 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:orientation="vertical">
+
+    <Button
+        android:id="@+id/btn_select_time"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:layout_marginLeft="15dp"
+        android:layout_marginRight="15dp"
+        android:layout_marginTop="100dp"
+        android:layout_centerInParent="true"
+        android:text="@string/btn_time"
+        android:textColor="@color/linen"
+        android:background="@drawable/button_circular_bg"/>
+
+    <Button
+        android:id="@+id/btn_select_animation"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:layout_marginTop="35dp"
+        android:layout_marginLeft="15dp"
+        android:layout_marginRight="15dp"
+        android:layout_centerInParent="true"
+        android:textColor="@color/linen"
+        android:text="@string/btn_animation"
+        android:background="@drawable/button_circular_bg"/>
+
+</LinearLayout>

@@ -1,0 +1,35 @@
+<?xml version="1.0" encoding="utf-8"?>
+<RelativeLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:background="#efefef">
+
+
+    <EditText
+        android:id="@+id/textAmount"
+        android:layout_width="match_parent"
+        android:layout_height="50dp"
+        android:background="#FFFFFF"
+        android:inputType="numberDecimal"
+        android:padding="14dp"
+        android:textColor="#333333"
+        android:textSize="16sp"
+        android:layout_marginBottom="15dp"/>
+
+    <RelativeLayout
+        android:layout_below="@id/textAmount"
+        android:id="@+id/rl_content"
+        android:layout_width="match_parent"
+        android:layout_height="260dp"
+        android:background="#efefef">
+
+    </RelativeLayout>
+
+    <com.keyboard.custom.view.VirtualKeyboardView
+        android:id="@+id/virtualKeyboardView"
+        android:layout_height="wrap_content"
+        android:layout_width="match_parent"
+        android:layout_below="@id/rl_content"
+        android:layout_alignParentBottom="true"/>
+
+</RelativeLayout>

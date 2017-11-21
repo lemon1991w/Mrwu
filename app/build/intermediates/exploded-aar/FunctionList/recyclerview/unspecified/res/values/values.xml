@@ -1,0 +1,43 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="active">#9E9E9E</color>
+    <color name="bg_black">#000000</color>
+    <color name="bg_gray">#99F1F1F1</color>
+    <color name="bg_topbar">#F5F5F5</color>
+    <color name="bg_white">#FFFFFF</color>
+    <color name="black">#000000</color>
+    <color name="blue">#2196F3</color>
+    <color name="bottomNavigationBar">#ECECEC</color>
+    <color name="brown">#8D6E63</color>
+    <color name="colorAccent">#FF4081</color>
+    <color name="colorPrimary">#FF9800</color>
+    <color name="colorPrimaryDark">#FF9800</color>
+    <color name="div_white">#E5E5E5</color>
+    <color name="grey">#607D8B</color>
+    <color name="light_grey">#E0E0E0</color>
+    <color name="orange">#FFA726</color>
+    <color name="page_background">#F7F7F7</color>
+    <color name="selected">#FF9800</color>
+    <color name="swipeoption_blue">#3693D0</color>
+    <color name="swipeoption_green">#36CF8E</color>
+    <color name="swipeoption_purple">#ff1744</color>
+    <color name="teal">#00796B</color>
+    <color name="text_gray">#8D7A71</color>
+    <color name="text_topbar">#694E42</color>
+    <color name="text_white">#FFFFFF</color>
+    <color name="text_yellow">#FFC800</color>
+    <color name="transparent">#00FFFFFF</color>
+    <color name="unselected">#9E9E9E</color>
+    <color name="white">#ffffff</color>
+    <declare-styleable name="ProgressWheel"><attr format="boolean" name="matProg_progressIndeterminate"/><attr format="color" name="matProg_barColor"/><attr format="color" name="matProg_rimColor"/><attr format="dimension" name="matProg_rimWidth"/><attr format="float" name="matProg_spinSpeed"/><attr format="integer" name="matProg_barSpinCycleTime"/><attr format="dimension" name="matProg_circleRadius"/><attr format="boolean" name="matProg_fillRadius"/><attr format="dimension" name="matProg_barWidth"/><attr format="boolean" name="matProg_linearProgress"/></declare-styleable>
+    <declare-styleable name="RoundImageView"><attr name="maskType">
+            <enum name="RECTANGLE" value="0"/>
+            <enum name="CIRCLE" value="1"/>
+            <enum name="ROUNDRECTANGLE" value="2"/>
+            <enum name="ROUNDRECTANGLETOP" value="3"/>
+        </attr><attr format="dimension" name="borderWidth_Ri"/><attr format="color|reference" name="borderColor_Ri"/></declare-styleable>
+    <dimen name="swipeWidth">60dp</dimen>
+    <string name="app_name">Library</string>
+    <string name="loading">加载中...</string>
+    <string name="no_more_data">没有更多数据...</string>
+</resources>

@@ -1,0 +1,84 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:background="#11cccccc"
+    android:orientation="vertical" >
+
+    <RelativeLayout
+        android:layout_width="match_parent"
+        android:layout_height="60dp"
+        android:background="#ffffff" >
+
+        <ImageView
+            android:id="@+id/iv_back"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:layout_centerVertical="true"
+            android:padding="16dp"
+            android:src="@drawable/arrow_back" />
+
+        <TextView
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:layout_centerInParent="true"
+            android:text="购物车"
+            android:textColor="#cc3333"
+            android:textSize="20sp" />
+    </RelativeLayout>
+
+    <ListView 
+        android:id="@+id/lv_shopping_list"
+        android:layout_marginTop="5dp"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:layout_weight="1"
+        android:background="#33cccccc"/>
+
+    <RelativeLayout 
+        android:layout_width="match_parent"
+        android:layout_height="45dp"
+        android:background="#ffffff">
+        
+        <CheckBox 
+            android:id="@+id/check_all"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:paddingLeft="10dp"
+            android:layout_marginLeft="15dp"
+            android:layout_centerVertical="true"
+            android:button="@drawable/icon_unchecked"
+            android:text="全选"/>
+        
+        <TextView 
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:text="合计：¥ "
+            android:layout_centerVertical="true"
+            android:layout_toLeftOf="@+id/tv_total_price"
+            android:layout_toStartOf="@+id/tv_total_price"/>
+        
+        <TextView
+            android:id="@+id/tv_total_price" 
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:text="0.0"
+            android:textSize="20sp"
+            android:textColor="#ff0000"
+            android:layout_centerVertical="true"
+            android:layout_marginLeft="5dp"
+            android:layout_marginRight="15dp"
+            android:layout_toLeftOf="@+id/bt_settle_accounts"
+            android:layout_toStartOf="@+id/bt_settle_accounts"/>
+        
+        <Button 
+            android:id="@+id/bt_settle_accounts"
+            android:layout_width="100dp"
+            android:layout_height="match_parent"
+            android:layout_alignParentRight="true"
+            android:background="@drawable/bt_shape_03"
+            android:textColor="#ffffff"
+            android:text="结果(0)"/>
+        
+    </RelativeLayout>
+</LinearLayout>

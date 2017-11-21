@@ -1,0 +1,14 @@
+[
+    {
+        "merged": "/Users/wusourece/Desktop/FunctionList/app/build/intermediates/res/merged/arm/debug/drawable-xxhdpi/ic_check_circle_white_24dp.png",
+        "source": "/Users/wusourece/Desktop/FunctionList/app/build/generated/res/pngs/arm/debug/drawable-xxhdpi/ic_check_circle_white_24dp.png"
+    },
+    {
+        "merged": "/Users/wusourece/Desktop/FunctionList/app/build/intermediates/res/merged/arm/debug/drawable-xxhdpi/ic_launcher.png",
+        "source": "/Users/wusourece/Desktop/FunctionList/app/src/main/res/drawable-xxhdpi/ic_launcher.png"
+    },
+    {
+        "merged": "/Users/wusourece/Desktop/FunctionList/app/build/intermediates/res/merged/arm/debug/drawable-xxhdpi/ic_error_outline_white_24dp.png",
+        "source": "/Users/wusourece/Desktop/FunctionList/app/build/generated/res/pngs/arm/debug/drawable-xxhdpi/ic_error_outline_white_24dp.png"
+    }
+]

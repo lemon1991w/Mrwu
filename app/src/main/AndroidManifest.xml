@@ -1,0 +1,251 @@
+<?xml version="1.0" encoding="utf-8"?>
+<manifest xmlns:android="http://schemas.android.com/apk/res/android"
+    package="com.main.functionlistsdemo"
+    android:versionCode="1"
+    android:versionName="1.0">
+
+    <uses-sdk
+        android:minSdkVersion="8"
+        android:targetSdkVersion="21" />
+
+    <uses-permission android:name="android.permission.BAIDU_LOCATION_SERVICE"></uses-permission>
+    <uses-permission android:name="android.permission.ACCESS_NETWORK_STATE"></uses-permission>
+    <uses-permission android:name="android.permission.ACCESS_COARSE_LOCATION"></uses-permission>
+    <uses-permission android:name="android.permission.INTERNET"></uses-permission>
+    <!-- <uses-permission android:name="android.permission.WRITE_APN_SETTINGS"></uses-permission> -->
+    <uses-permission android:name="android.permission.ACCESS_FINE_LOCATION"></uses-permission>
+    <uses-permission android:name="com.android.launcher.permission.READ_SETTINGS" />
+    <uses-permission android:name="android.permission.WAKE_LOCK"></uses-permission>
+    <uses-permission android:name="android.permission.CHANGE_WIFI_STATE" />
+    <uses-permission android:name="android.permission.ACCESS_WIFI_STATE" />
+    <uses-permission android:name="android.permission.ACCESS_GPS" />
+    <uses-permission android:name="android.permission.READ_PHONE_STATE" />
+    <uses-permission android:name="android.permission.READ_CONTACTS" />
+    <uses-permission android:name="android.permission.CALL_PHONE" />
+    <uses-permission android:name="android.permission.READ_SMS" />
+    <uses-permission android:name="android.permission.SEND_SMS" />
+    <!-- SDK1.5需要android.permission.GET_TASKS权限判断本程序是否为当前运行的应用? -->
+    <uses-permission android:name="android.permission.GET_TASKS" />
+    <uses-permission android:name="android.permission.CAMERA"></uses-permission>
+    <uses-permission android:name="android.permission.RECORD_AUDIO"></uses-permission>
+    <uses-permission android:name="android.permission.WRITE_EXTERNAL_STORAGE"></uses-permission>
+    <uses-permission android:name="android.permission.RECEIVE_BOOT_COMPLETED" />
+    <uses-permission android:name="android.permission.BROADCAST_STICKY" />
+    <uses-permission android:name="android.permission.WRITE_SETTINGS" />
+    <!-- 来电消音 -->
+    <uses-permission android:name="android.permission.PROCESS_OUTGOING_CALLS"></uses-permission>
+    <uses-permission android:name="android.permission.READ_PHONE_STATE" />
+    <uses-permission android:name="android.permission.MODIFY_AUDIO_SETTINGS" />
+    <uses-permission android:name="android.permission.VIBRATE" />
+    <uses-permission android:name="android.permission.CAMERA"/>
+
+    <uses-permission android:name="android.permission.MODIFY_AUDIO_SETTINGS" />
+
+
+    <application
+        android:name="org.litepal.LitePalApplication"
+        android:allowBackup="true"
+        android:icon="@drawable/tu108"
+        android:label="@string/app_name"
+        android:theme="@style/AppTheme">
+        <activity
+            android:name="com.main.functionlistsdemo.MainActivity"
+            android:label="@string/app_name">
+            <intent-filter>
+                <action android:name="android.intent.action.MAIN" />
+
+                <category android:name="android.intent.category.LAUNCHER" />
+            </intent-filter>
+        </activity>
+
+        <activity
+            android:name="com.viewpager.fragment.MainPager"
+            android:screenOrientation="portrait"
+            android:label="@string/viewpager_fragment"/>
+
+        <activity
+            android:name="com.imageloader.ImageLoaderDemo"
+            android:screenOrientation="portrait"
+            android:label="@string/image_loader"/>
+
+        <activity
+            android:name="com.net.connection.MainNetConnection"
+            android:screenOrientation="portrait"
+            android:label="@string/net_connection"/>
+
+        <activity
+            android:name="com.immersive.demo.MainImmersive"
+            android:screenOrientation="portrait"
+            android:label="@string/Immersive_status"/>
+
+        <activity
+            android:name="com.show.more.ClickShowMore"
+            android:screenOrientation="portrait"
+            android:label="@string/check_select_show_more"/>
+
+        <activity
+            android:name="com.shopping.cart.MainShoppingCart"
+            android:screenOrientation="portrait"
+            android:label="@string/ShoppingCart"/>
+
+        <activity
+            android:name="com.net.request.more.MainNetRequest"
+            android:screenOrientation="portrait"
+            android:label="@string/net_connection"/>
+
+        <activity
+            android:name="com.comment.reply.MainCommentReply"
+            android:screenOrientation="portrait"
+            android:label="@string/CommentReply"/>
+
+        <activity
+            android:name="com.imitation.ios.dialog.ImitationIosDialogActivity"
+            android:screenOrientation="portrait"
+            android:label="@string/imitation_ios_dialog"/>
+
+        <activity
+            android:name="com.date.and.nimaiton.MainListActivity"
+            android:screenOrientation="portrait"
+            android:label="@string/time_select_list"/>
+        <activity
+            android:name="com.date.and.nimaiton.time.TimeActivity"
+            android:screenOrientation="portrait" />
+        <activity
+            android:name="com.date.and.nimaiton.nimation.AnimationActivity"
+            android:screenOrientation="portrait"
+            android:label="@string/animation_list"/>
+        <activity
+            android:name="com.date.and.nimaiton.nimation.OneActivity"
+            android:screenOrientation="portrait"
+            android:label="@string/animation_zoom"/>
+        <activity
+            android:name="com.date.and.nimaiton.nimation.TwoActivity"
+            android:screenOrientation="portrait"
+            android:label="@string/animation_list"/>
+        <activity
+            android:name="com.date.and.nimaiton.nimation.ThreeActivity"
+            android:screenOrientation="portrait"
+            android:label="@string/animation_list"/>
+
+        <activity
+            android:name="com.com.swipelayout.recyclerview.currentswipe.MainCustomSwipeRefresh"
+            android:screenOrientation="portrait"
+            android:label="@string/custom_header"/>
+        <activity
+            android:name="com.com.swipelayout.recyclerview.MainSwipeLayoutActivity"
+            android:screenOrientation="portrait"
+            android:label="@string/custom_header"/>
+        <activity
+            android:name="com.com.swipelayout.recyclerview.ui.SimpleRefreshActivity"
+            android:screenOrientation="portrait"
+            android:label="@string/custom_header"/>
+        <activity
+            android:name="com.com.swipelayout.recyclerview.ui.CustomHeaderActivity"
+            android:screenOrientation="portrait"
+            android:label="@string/custom_header"/>
+
+        <activity
+            android:name="com.keyboard.custom.MainKeyBoardActivity"
+            android:screenOrientation="portrait"
+            android:label="@string/pay_broadkey"/>
+        <activity
+            android:name="com.keyboard.custom.NormalKeyBoardActivity"
+            android:screenOrientation="portrait"
+            android:label="@string/pay_broadkey"/>
+        <activity
+            android:name="com.keyboard.custom.PaymentKeyboardActivity"
+            android:screenOrientation="portrait"
+            android:label="@string/pay_broadkey"/>
+
+        <activity
+            android:name="com.banner.change.BannerActivity"
+            android:screenOrientation="portrait"
+            android:label="@string/banner"/>
+
+        <activity
+            android:name="com.progressbar.ProgressBarActivity"
+            android:screenOrientation="portrait"
+            android:label="@string/progress_bar"/>
+
+        <activity
+            android:name="com.coordinatorlayout.header.CoordinatorLayoutActivity"
+            android:screenOrientation="portrait"
+            android:label="@string/CoordinatorLayout"/>
+
+        <activity
+            android:name="com.SlidingTabLayout.SlidingTabActivity"
+            android:screenOrientation="portrait"
+            android:label="@string/tabLayout"/>
+
+        <activity
+            android:name="com.LoveCurve.LoveCurveActivity"
+            android:screenOrientation="portrait"
+            android:label="@string/LoveCurve"/>
+
+        <activity
+            android:name="com.notification.bar.MainNotificationBar"
+            android:screenOrientation="portrait"
+            android:label="@string/NotificationBar"/>
+
+        <activity
+            android:name="com.suspension.bar.SupensionBarActivity"
+            android:screenOrientation="portrait"
+            android:label="@string/suspension_Bar"/>
+
+        <activity
+            android:name="com.city.index.list.CityIndexListActivity"
+            android:screenOrientation="portrait"
+            android:label="@string/city_index_list"/>
+
+        <activity
+            android:name="com.top.notification.TopNotification"
+            android:screenOrientation="portrait"
+            android:label="@string/top_notification"/>
+
+        <activity
+            android:name="com.camera.CameraActivity"
+            android:screenOrientation="portrait"
+            android:label="@string/camera"/>
+
+        <activity
+            android:name="com.zxing.code.QrcodeScannerActivity"
+            android:screenOrientation="portrait"
+            android:label="@string/qr_scanner"/>
+
+        <activity
+            android:name="com.sesame.annular.view.SesameCreditActivity"
+            android:screenOrientation="portrait"
+            android:label="@string/sesame_annular_view"/>
+
+        <activity
+            android:name="com.recording.test.RecordingTest"
+            android:screenOrientation="portrait"
+            android:label="@string/RecordingTest"/>
+
+        <activity
+            android:name="com.screen.shot.ScreenShotActivity"
+            android:screenOrientation="portrait"
+            android:label="@string/ScreenShot"/>
+
+        <activity
+            android:name="com.senior.custom.view.CustomViewOneActivity"
+            android:screenOrientation="portrait"
+            android:label="@string/custom_view_one"/>
+
+        <activity
+            android:name="com.senior.custom.view.CustomViewTwoActivity"
+            android:screenOrientation="portrait"
+            android:label="@string/custom_view_two"/>
+
+        <activity
+            android:name="com.senior.custom.view.CustomViewThreeActivity"
+            android:screenOrientation="portrait"
+            android:label="@string/custom_view_three"/>
+
+        <activity
+            android:name="com.senior.custom.view.AnnularProgressBarActivity"
+            android:screenOrientation="portrait"
+            android:label="@string/annular_progress_bar"/>
+    </application>
+
+</manifest>

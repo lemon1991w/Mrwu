@@ -1,0 +1,419 @@
+<?xml version="1.0" encoding="utf-8"?>
+<items version="2" >
+
+    <item
+        is-multidex="false"
+        jar="/Users/wusourece/Desktop/FunctionList/app/libs/litepal-1.4.1.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.2"
+        sha1="3044cfd502ecef0e4438ba41e5e291f338fe8d03">
+        <dex dex="/Users/wusourece/Desktop/FunctionList/app/build/intermediates/pre-dexed/arm/debug/litepal-1.4.1_8dbe4ed157d9406c6d9de30c576e0ce4cffd3f23.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/wusourece/.gradle/caches/modules-2/files-2.1/com.github.nkzawa/engine.io-client/0.3.1/3ca9d0d53a27ecb88538ed874be417cfa827db5d/engine.io-client-0.3.1.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.2"
+        sha1="3ca9d0d53a27ecb88538ed874be417cfa827db5d">
+        <dex dex="/Users/wusourece/Desktop/FunctionList/app/build/intermediates/pre-dexed/arm/debug/engine.io-client-0.3.1_0b0ad174dd06eeec8bf6456ede7259009ca7f6c1.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/wusourece/Desktop/FunctionList/app/build/intermediates/exploded-aar/com.android.support/support-core-ui/24.2.1/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.2"
+        sha1="e7f3132168957eefc46229fc32c3bd464642b71e">
+        <dex dex="/Users/wusourece/Desktop/FunctionList/app/build/intermediates/pre-dexed/arm/debug/com.android.support-support-core-ui-24.2.1_e44d587bb7f5023bd366b598bd7255874fb12ff3.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/wusourece/Desktop/FunctionList/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/24.2.1/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.2"
+        sha1="43b2dba6b5a0b14527961b75329d0b90025f15ea">
+        <dex dex="/Users/wusourece/Desktop/FunctionList/app/build/intermediates/pre-dexed/arm/debug/com.android.support-appcompat-v7-24.2.1_2ae747a5810d389af05847f9c6ace51028963f5a.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Applications/Android Studio.app/Contents/gradle/m2repository/com/google/code/gson/gson/2.2.4/gson-2.2.4.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.2"
+        sha1="a60a5e993c98c864010053cb901b7eab25306568">
+        <dex dex="/Users/wusourece/Desktop/FunctionList/app/build/intermediates/pre-dexed/arm/debug/gson-2.2.4_d0ce76b63ce905fbab3c5d385c8e1b8692010f19.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/wusourece/.gradle/caches/modules-2/files-2.1/com.readystatesoftware.systembartint/systembartint/1.0.3/de4f7404e2f58d8f6e83cb1e85d0c2d6c2987287/systembartint-1.0.3.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.2"
+        sha1="de4f7404e2f58d8f6e83cb1e85d0c2d6c2987287">
+        <dex dex="/Users/wusourece/Desktop/FunctionList/app/build/intermediates/pre-dexed/arm/debug/systembartint-1.0.3_50347d6a06468b9cf0ee6c9f0fc13a8980e45b46.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/wusourece/Desktop/FunctionList/app/build/intermediates/exploded-aar/com.android.support/support-fragment/24.2.1/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.2"
+        sha1="b9a1ac78ad7ef3abedc4a4b30cd92bcacb939d1f">
+        <dex dex="/Users/wusourece/Desktop/FunctionList/app/build/intermediates/pre-dexed/arm/debug/com.android.support-support-fragment-24.2.1_578e0bc7610a62295052aaafa63e4394a83e20d9.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/wusourece/.gradle/caches/modules-2/files-2.1/com.squareup.okio/okio/1.8.0/5ea7af56cc7c567ed9856d99efb30740e9b17ff/okio-1.8.0.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.2"
+        sha1="05ea7af56cc7c567ed9856d99efb30740e9b17ff">
+        <dex dex="/Users/wusourece/Desktop/FunctionList/app/build/intermediates/pre-dexed/arm/debug/okio-1.8.0_a1d996d13739c478aa3ebe615f682dc456f0e1a1.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/wusourece/Desktop/FunctionList/app/build/intermediates/exploded-aar/com.czt.mp3recorder/library/1.0.4/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.2"
+        sha1="7626fa7eff9b215a4033b058d6e921d38d144d45">
+        <dex dex="/Users/wusourece/Desktop/FunctionList/app/build/intermediates/pre-dexed/arm/debug/com.czt.mp3recorder-library-1.0.4_d61a563b26357ab2d67e2d63b4ebd5a221bb793d.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/wusourece/Desktop/FunctionList/app/build/intermediates/exploded-aar/com.pnikosis/materialish-progress/1.2/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.2"
+        sha1="8928e43a2cdb9251841c63f7bf70ffe7b6fbce94">
+        <dex dex="/Users/wusourece/Desktop/FunctionList/app/build/intermediates/pre-dexed/arm/debug/com.pnikosis-materialish-progress-1.2_ea210ab7226af7b6962bdbad3e20280566092134.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/wusourece/Desktop/FunctionList/app/libs/baidumapapi_v2_1_2.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.2"
+        sha1="4f30d13f4864e0a20c53ae08b01a0749b5668c0e">
+        <dex dex="/Users/wusourece/Desktop/FunctionList/app/build/intermediates/pre-dexed/arm/debug/baidumapapi_v2_1_2_5edb53eb7aef65bbbe3ee027f62bbc7f6eaf8b3c.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/wusourece/Desktop/FunctionList/app/build/intermediates/exploded-aar/me.dm7.barcodescanner/core/1.9/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.2"
+        sha1="ceda0650ec225b9c0143ed8ff1c010d4e621a423">
+        <dex dex="/Users/wusourece/Desktop/FunctionList/app/build/intermediates/pre-dexed/arm/debug/me.dm7.barcodescanner-core-1.9_576020553f4faa22cc45fe30d891bbb713f98493.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/wusourece/Desktop/FunctionList/app/libs/libammsdk.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.2"
+        sha1="11b09244aedaa51bfd09269637be7c32c60da314">
+        <dex dex="/Users/wusourece/Desktop/FunctionList/app/build/intermediates/pre-dexed/arm/debug/libammsdk_95817380f60531019f67f495c6d996ef01ac294f.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/wusourece/Desktop/FunctionList/app/build/intermediates/exploded-aar/com.android.support/support-media-compat/24.2.1/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.2"
+        sha1="09b462bbcb77650284bd6614f1a32f360ef369f8">
+        <dex dex="/Users/wusourece/Desktop/FunctionList/app/build/intermediates/pre-dexed/arm/debug/com.android.support-support-media-compat-24.2.1_3c3134b364dee398e3a8bf91fc5e047ed9290fb5.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/wusourece/Desktop/FunctionList/app/build/intermediates/exploded-aar/com.android.support/design/24.2.1/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.2"
+        sha1="e03f47f3d1017a093bb3239d4ec47c3447f40744">
+        <dex dex="/Users/wusourece/Desktop/FunctionList/app/build/intermediates/pre-dexed/arm/debug/com.android.support-design-24.2.1_4792dad097055d483bf8b2c0ecc61ddc752a9117.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/wusourece/.gradle/caches/modules-2/files-2.1/org.jetbrains/annotations-java5/15.0/7011b4551a8451906759b05814c58b9eb829ea9b/annotations-java5-15.0.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.2"
+        sha1="7011b4551a8451906759b05814c58b9eb829ea9b">
+        <dex dex="/Users/wusourece/Desktop/FunctionList/app/build/intermediates/pre-dexed/arm/debug/annotations-java5-15.0_e450d73e95e285f11a31ae0239fd53b40d46da40.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/wusourece/Desktop/FunctionList/app/libs/library.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.2"
+        sha1="a599fb6603d0584fc84cdd2b9c180c742041c628">
+        <dex dex="/Users/wusourece/Desktop/FunctionList/app/build/intermediates/pre-dexed/arm/debug/library_4e9b28c1a12ebbe4715ae61fb7b7324ef377f323.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/wusourece/Desktop/FunctionList/app/libs/universal-image-loader-1.9.3.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.2"
+        sha1="a85588bec3e2c4584d593d3f15df1677321bca72">
+        <dex dex="/Users/wusourece/Desktop/FunctionList/app/build/intermediates/pre-dexed/arm/debug/universal-image-loader-1.9.3_ae597e0ef2a972b87b5a3c6712e009d79e47bea9.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/wusourece/Desktop/FunctionList/app/build/intermediates/exploded-aar/com.android.support/support-v4/24.2.1/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.2"
+        sha1="d7c42c80f6509b9ea4db28ca7859ffae08ec5741">
+        <dex dex="/Users/wusourece/Desktop/FunctionList/app/build/intermediates/pre-dexed/arm/debug/com.android.support-support-v4-24.2.1_d96236813fe228b71224fdb15db0d2dbe65f20f1.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/wusourece/Desktop/FunctionList/app/libs/volley.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.2"
+        sha1="7eb90d3407943ccbac85ddb1406522baa36ef0ba">
+        <dex dex="/Users/wusourece/Desktop/FunctionList/app/build/intermediates/pre-dexed/arm/debug/volley_341b885fc7679751b21262276be606187293f11b.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/wusourece/Desktop/FunctionList/app/build/intermediates/exploded-aar/com.android.support/support-core-utils/24.2.1/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.2"
+        sha1="9c4c3bc902450c39ed54de170db4fb12aea20a35">
+        <dex dex="/Users/wusourece/Desktop/FunctionList/app/build/intermediates/pre-dexed/arm/debug/com.android.support-support-core-utils-24.2.1_45fa4a61b7925b32916eb0be46bf4eb992c11008.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/wusourece/Desktop/FunctionList/app/build/intermediates/exploded-aar/com.android.support/support-core-utils/24.2.1/jars/libs/internal_impl-24.2.1.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.2"
+        sha1="935a969265b2a166b2d20415423f5f6e90fe16e0">
+        <dex dex="/Users/wusourece/Desktop/FunctionList/app/build/intermediates/pre-dexed/arm/debug/internal_impl-24.2.1_4f8d2a0c774e6b874b6f9f6ec149ba2a3af473cc.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/wusourece/Desktop/FunctionList/app/build/intermediates/exploded-aar/FunctionList/recyclerview/unspecified/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.2"
+        sha1="516102f9be4e7777fe0852cc10281842e8d06cd3">
+        <dex dex="/Users/wusourece/Desktop/FunctionList/app/build/intermediates/pre-dexed/arm/debug/FunctionList-recyclerview-unspecified_64a572f594c50fa8859f9465acc6e21071a18934.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/wusourece/Desktop/FunctionList/app/build/intermediates/exploded-aar/com.android.support/animated-vector-drawable/24.2.1/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.2"
+        sha1="94bc1dfb84dcc8b6f6f8f7cc726d7b2dd39c1574">
+        <dex dex="/Users/wusourece/Desktop/FunctionList/app/build/intermediates/pre-dexed/arm/debug/com.android.support-animated-vector-drawable-24.2.1_e60cd75dcde86652485b0c6e2e630c6791a40b31.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/wusourece/.gradle/caches/modules-2/files-2.1/com.github.nkzawa/socket.io-client/0.3.0/8dfd7cf8d1124acb027b3ffd53eafcc518af3ba9/socket.io-client-0.3.0.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.2"
+        sha1="8dfd7cf8d1124acb027b3ffd53eafcc518af3ba9">
+        <dex dex="/Users/wusourece/Desktop/FunctionList/app/build/intermediates/pre-dexed/arm/debug/socket.io-client-0.3.0_64253bbbc84d3286668d09e1924e9b3bae97b7a6.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/wusourece/.gradle/caches/modules-2/files-2.1/com.jakewharton/butterknife/5.1.1/b3652dfd65ca0bcf18790ff1a1f7624af4cb2bb8/butterknife-5.1.1.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.2"
+        sha1="b3652dfd65ca0bcf18790ff1a1f7624af4cb2bb8">
+        <dex dex="/Users/wusourece/Desktop/FunctionList/app/build/intermediates/pre-dexed/arm/debug/butterknife-5.1.1_c93530d1314f3fb3bbe942b84422c2716320099a.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/wusourece/.gradle/caches/modules-2/files-2.1/com.github.bumptech.glide/glide/3.6.1/86b122e640af09b0723e1fa44083c354ba6d9089/glide-3.6.1.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.2"
+        sha1="86b122e640af09b0723e1fa44083c354ba6d9089">
+        <dex dex="/Users/wusourece/Desktop/FunctionList/app/build/intermediates/pre-dexed/arm/debug/glide-3.6.1_10c007af81d4ed37579811d24c9e0eee6e863187.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/wusourece/Desktop/FunctionList/app/libs/xutils.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.2"
+        sha1="912e81e608544c3b6b22f56ca154b32626364854">
+        <dex dex="/Users/wusourece/Desktop/FunctionList/app/build/intermediates/pre-dexed/arm/debug/xutils_f55522a5df6a70f0779c420abd19c28e4565a3f1.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/wusourece/Desktop/FunctionList/app/build/intermediates/exploded-aar/com.android.support/support-core-ui/24.2.1/jars/libs/internal_impl-24.2.1.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.2"
+        sha1="867dad63c33388ff8c7644b236579355036d075f">
+        <dex dex="/Users/wusourece/Desktop/FunctionList/app/build/intermediates/pre-dexed/arm/debug/internal_impl-24.2.1_d400a2112cfcd19beab65f8550e966d363f90aa3.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/wusourece/Desktop/FunctionList/app/build/intermediates/exploded-aar/me.dm7.barcodescanner/zxing/1.9/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.2"
+        sha1="760ff0a866a9b3b7fe4a91cfe6439d9dc93cea7c">
+        <dex dex="/Users/wusourece/Desktop/FunctionList/app/build/intermediates/pre-dexed/arm/debug/me.dm7.barcodescanner-zxing-1.9_85404fb82fdcab0d4adea0f0f3ae4636c708dfc6.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/wusourece/Desktop/FunctionList/app/build/intermediates/exploded-aar/com.android.support/cardview-v7/23.4.0/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.2"
+        sha1="d9ecde39b460470e655de6e47c05573d2d5a8bfb">
+        <dex dex="/Users/wusourece/Desktop/FunctionList/app/build/intermediates/pre-dexed/arm/debug/com.android.support-cardview-v7-23.4.0_69fae50c4f41ff8000de5fac84e5ccc10698b005.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/wusourece/.gradle/caches/modules-2/files-2.1/com.squareup.okhttp3/okhttp/3.3.1/19047bdb6a4fc00a44124f64ca98e88fc204e7e3/okhttp-3.3.1.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.2"
+        sha1="19047bdb6a4fc00a44124f64ca98e88fc204e7e3">
+        <dex dex="/Users/wusourece/Desktop/FunctionList/app/build/intermediates/pre-dexed/arm/debug/okhttp-3.3.1_af57ba9a5164c29587bd3918e71c1a3ecc49522a.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/wusourece/Desktop/FunctionList/app/build/intermediates/exploded-aar/com.android.support/support-compat/24.2.1/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.2"
+        sha1="0ecb4b595fa0f0f8018a149ace3ea6525624f94e">
+        <dex dex="/Users/wusourece/Desktop/FunctionList/app/build/intermediates/pre-dexed/arm/debug/com.android.support-support-compat-24.2.1_9979a797ed9f640e1f62ffaf61b1df20a5010929.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/wusourece/.gradle/caches/modules-2/files-2.1/com.google.zxing/core/3.2.1/2287494d4f5f9f3a9a2bb6980e3f32053721b315/core-3.2.1.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.2"
+        sha1="2287494d4f5f9f3a9a2bb6980e3f32053721b315">
+        <dex dex="/Users/wusourece/Desktop/FunctionList/app/build/intermediates/pre-dexed/arm/debug/core-3.2.1_388beaf05e8940dcb6a4b8593a90b3e35306e7a6.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/wusourece/Desktop/FunctionList/app/build/intermediates/exploded-aar/com.android.support/support-compat/24.2.1/jars/libs/internal_impl-24.2.1.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.2"
+        sha1="7e4389bd133359a2ff88623ff1e4ff93d6e6f780">
+        <dex dex="/Users/wusourece/Desktop/FunctionList/app/build/intermediates/pre-dexed/arm/debug/internal_impl-24.2.1_4013577b477416712fb142e9b6ddbf47e23c0b6d.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/wusourece/Desktop/FunctionList/app/build/intermediates/exploded-aar/com.android.support/recyclerview-v7/24.2.1/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.2"
+        sha1="7521486d9bfd2cd9e756e0cf75ed7d97f2ce2d3b">
+        <dex dex="/Users/wusourece/Desktop/FunctionList/app/build/intermediates/pre-dexed/arm/debug/com.android.support-recyclerview-v7-24.2.1_2eb3fbefe66ce541b11fabe51d6bde56528c20d4.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/wusourece/Library/Android/sdk/extras/android/m2repository/com/android/support/support-annotations/24.2.1/support-annotations-24.2.1.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.2"
+        sha1="8de3aafecbdf98a61db6427f008f2d515bcd2544">
+        <dex dex="/Users/wusourece/Desktop/FunctionList/app/build/intermediates/pre-dexed/arm/debug/support-annotations-24.2.1_bad207447f06f1cda089211c8a2d6d7cc71c58d2.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/wusourece/Desktop/FunctionList/app/build/intermediates/exploded-aar/com.android.support/support-media-compat/24.2.1/jars/libs/internal_impl-24.2.1.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.2"
+        sha1="fbf8da429efd5ad21e02e3e5ecaa1efc4167878d">
+        <dex dex="/Users/wusourece/Desktop/FunctionList/app/build/intermediates/pre-dexed/arm/debug/internal_impl-24.2.1_f28ced0a2845993faf437173f686e837f9e84f82.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/wusourece/.gradle/caches/modules-2/files-2.1/org.java-websocket/Java-WebSocket/1.3.0/db2658f013fb163de4a99274c2eb9e17efe535d2/Java-WebSocket-1.3.0.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.2"
+        sha1="db2658f013fb163de4a99274c2eb9e17efe535d2">
+        <dex dex="/Users/wusourece/Desktop/FunctionList/app/build/intermediates/pre-dexed/arm/debug/Java-WebSocket-1.3.0_981791d1421d1ec0e375e1d6983df4270b09fb78.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/wusourece/Desktop/FunctionList/app/build/intermediates/exploded-aar/com.android.support/support-vector-drawable/24.2.1/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.2"
+        sha1="d5c731fc64c03dfe04d51134955b483551c35849">
+        <dex dex="/Users/wusourece/Desktop/FunctionList/app/build/intermediates/pre-dexed/arm/debug/com.android.support-support-vector-drawable-24.2.1_e1b242e44e04ebcda69e78c617fde730b024c1f7.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/wusourece/Desktop/FunctionList/app/build/intermediates/exploded-aar/com.android.support/support-fragment/24.2.1/jars/libs/internal_impl-24.2.1.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.2"
+        sha1="5f64d657e838e8375135c0f6057a7ff8fab6a50e">
+        <dex dex="/Users/wusourece/Desktop/FunctionList/app/build/intermediates/pre-dexed/arm/debug/internal_impl-24.2.1_de520911916343d9364ffd8e1d7310a809affc88.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/wusourece/Desktop/FunctionList/app/libs/locSDK_3.1.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.2"
+        sha1="09224a1883da8b5bd37e766f4fab80570d879898">
+        <dex dex="/Users/wusourece/Desktop/FunctionList/app/build/intermediates/pre-dexed/arm/debug/locSDK_3.1_57c5980f452cd1698db8b01c4df15b5e2056d778.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/wusourece/Desktop/FunctionList/app/libs/picasso-2.5.2.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.2"
+        sha1="7446d06ec8d4f7ffcc53f1da37c95f200dcb9387">
+        <dex dex="/Users/wusourece/Desktop/FunctionList/app/build/intermediates/pre-dexed/arm/debug/picasso-2.5.2_a3291f5a368505fcb801ddc7385a60c5fcc42d6e.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/wusourece/Desktop/FunctionList/app/libs/android-async-http-1.3.2.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.2"
+        sha1="d5f22bfe0ac8ae50db1be71f0ff375c4cc02085a">
+        <dex dex="/Users/wusourece/Desktop/FunctionList/app/build/intermediates/pre-dexed/arm/debug/android-async-http-1.3.2_15b652f60eb8b163b055a103f2e013fd9eb428cf.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/wusourece/.gradle/caches/modules-2/files-2.1/org.greenrobot/eventbus/3.0.0/ddd99896e9569eaababbe81b35d80e1b91c4ad85/eventbus-3.0.0.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.2"
+        sha1="ddd99896e9569eaababbe81b35d80e1b91c4ad85">
+        <dex dex="/Users/wusourece/Desktop/FunctionList/app/build/intermediates/pre-dexed/arm/debug/eventbus-3.0.0_674cda5eaaaf168043fe7b133b5b57e11ec25159.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/wusourece/.gradle/caches/modules-2/files-2.1/com.github.promeg/tinypinyin/1.0.0/a48301534bbc8eea481f61fa8fbdee80eca49d15/tinypinyin-1.0.0.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.2"
+        sha1="a48301534bbc8eea481f61fa8fbdee80eca49d15">
+        <dex dex="/Users/wusourece/Desktop/FunctionList/app/build/intermediates/pre-dexed/arm/debug/tinypinyin-1.0.0_3a41ad29d8f4877410b9940f9a05b8d1405a414a.jar" />
+    </item>
+
+</items>

@@ -1,0 +1,18 @@
+[
+    {
+        "merged": "/Users/wusourece/Desktop/FunctionList/app/build/intermediates/res/merged/arm/debug/mipmap-mdpi/ic_launcher.png",
+        "source": "/Users/wusourece/Desktop/FunctionList/app/src/main/res/mipmap-mdpi/ic_launcher.png"
+    },
+    {
+        "merged": "/Users/wusourece/Desktop/FunctionList/app/build/intermediates/res/merged/arm/debug/mipmap-mdpi/ic_drawer_home.png",
+        "source": "/Users/wusourece/Desktop/FunctionList/app/src/main/res/mipmap-mdpi/ic_drawer_home.png"
+    },
+    {
+        "merged": "/Users/wusourece/Desktop/FunctionList/app/build/intermediates/res/merged/arm/debug/mipmap-mdpi/ic_notifications.png",
+        "source": "/Users/wusourece/Desktop/FunctionList/app/src/main/res/mipmap-mdpi/ic_notifications.png"
+    },
+    {
+        "merged": "/Users/wusourece/Desktop/FunctionList/app/build/intermediates/res/merged/arm/debug/mipmap-mdpi/ic_search.png",
+        "source": "/Users/wusourece/Desktop/FunctionList/app/src/main/res/mipmap-mdpi/ic_search.png"
+    }
+]

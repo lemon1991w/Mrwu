@@ -1,0 +1,43 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:orientation="vertical" >
+    
+    <LinearLayout 
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:background="#ff123654"
+        android:orientation="vertical">
+        
+        <TextView 
+            android:id="@+id/tv_title"
+            android:layout_width="match_parent"
+            android:layout_height="60dp"
+            android:text="沉浸式状态栏"
+            android:gravity="center"
+            android:background="#ff0000"
+            android:textSize="20sp"
+            android:textColor="#ffffff"/>
+    </LinearLayout>
+    
+<!--       <com.handmark.pulltorefresh.library.PullToRefreshListView
+   		 	android:id="@+id/list_view"  
+   		 	android:dividerHeight="8dp"
+   		 	android:cacheColorHint="#00000000"
+    		android:divider="@null"
+    		android:fastScrollEnabled="true"
+    		android:layout_width="match_parent"  
+   			android:layout_height="match_parent" 
+   			android:background="#FF99CC"/> -->
+   			
+   			<com.custom.XListView
+   			android:id="@+id/list_view"  
+            android:layout_width="fill_parent"
+            android:layout_height="fill_parent"
+            android:divider="@null"
+            android:dividerHeight="10dp"
+            android:fadingEdge="none"
+            android:scrollbars="none"  />
+        
+</LinearLayout>

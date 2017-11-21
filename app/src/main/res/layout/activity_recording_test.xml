@@ -1,0 +1,45 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout
+    xmlns:android="http://schemas.android.com/apk/res/android"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:orientation="vertical"
+    android:gravity="bottom">
+
+
+    <Button
+        android:id="@+id/btn_play"
+        android:layout_width="100dp"
+        android:layout_height="wrap_content"
+        android:text="播放"
+        android:layout_marginBottom="50dp"
+        android:layout_gravity="center"/>
+
+    <LinearLayout
+        android:layout_width="match_parent"
+        android:layout_height="45dp"
+        android:orientation="horizontal">
+
+    <ImageView
+        android:layout_width="40dp"
+        android:layout_height="40dp"
+        android:src="@drawable/expression"
+        android:padding="5dp"
+        android:layout_toLeftOf="@+id/btn_recording"
+        android:layout_alignParentBottom="true"
+        android:layout_marginRight="10dp"/>
+
+
+
+    <Button
+        android:id="@+id/btn_recording"
+        android:layout_width="match_parent"
+        android:layout_height="40dp"
+        android:background="@drawable/btn_color_bg"
+        android:text="开始语音"
+        android:layout_marginBottom="5dp"
+        android:layout_marginRight="10dp"/>
+
+
+    </LinearLayout>
+</LinearLayout>

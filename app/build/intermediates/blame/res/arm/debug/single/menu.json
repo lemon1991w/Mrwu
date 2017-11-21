@@ -1,0 +1,14 @@
+[
+    {
+        "merged": "/Users/wusourece/Desktop/FunctionList/app/build/intermediates/res/merged/arm/debug/menu/main.xml",
+        "source": "/Users/wusourece/Desktop/FunctionList/app/src/main/res/menu/main.xml"
+    },
+    {
+        "merged": "/Users/wusourece/Desktop/FunctionList/app/build/intermediates/res/merged/arm/debug/menu/menu_main.xml",
+        "source": "/Users/wusourece/Desktop/FunctionList/app/src/main/res/menu/menu_main.xml"
+    },
+    {
+        "merged": "/Users/wusourece/Desktop/FunctionList/app/build/intermediates/res/merged/arm/debug/menu/base_toolbar_menu.xml",
+        "source": "/Users/wusourece/Desktop/FunctionList/app/src/main/res/menu/base_toolbar_menu.xml"
+    }
+]

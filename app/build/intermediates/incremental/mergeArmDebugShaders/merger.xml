@@ -1,0 +1,2 @@
+<?xml version="1.0" encoding="utf-8"?>
+<merger version="3"><dataSet config="main"><source path="/Users/wusourece/Desktop/FunctionList/app/src/main/shaders"/></dataSet><dataSet config="arm"><source path="/Users/wusourece/Desktop/FunctionList/app/src/arm/shaders"/></dataSet><dataSet config="debug"><source path="/Users/wusourece/Desktop/FunctionList/app/src/debug/shaders"/></dataSet><dataSet config="armDebug"><source path="/Users/wusourece/Desktop/FunctionList/app/src/armDebug/shaders"/></dataSet></merger>

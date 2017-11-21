@@ -1,0 +1,66 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:orientation="vertical">
+
+    <Button
+        android:id="@+id/button"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:layout_marginLeft="15dp"
+        android:layout_marginRight="15dp"
+        android:layout_centerInParent="true"
+        android:layout_marginTop="50dp"
+        android:text="@string/animation_jianbain"
+        android:textColor="@color/linen"
+        android:background="@drawable/button_circular_color"/>
+
+    <Button
+        android:id="@+id/button2"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:layout_marginTop="35dp"
+        android:layout_marginLeft="15dp"
+        android:layout_marginRight="15dp"
+        android:layout_centerInParent="true"
+        android:textColor="@color/linen"
+        android:text="@string/animation_shangxia"
+        android:background="@drawable/button_circular_color"/>
+
+    <Button
+        android:id="@+id/button3"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:layout_marginTop="35dp"
+        android:layout_marginLeft="15dp"
+        android:layout_marginRight="15dp"
+        android:layout_centerInParent="true"
+        android:textColor="@color/linen"
+        android:text="@string/animation_zuoyou"
+        android:background="@drawable/button_circular_color"/>
+
+    <Button
+        android:id="@+id/button4"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:layout_marginTop="35dp"
+        android:layout_marginLeft="15dp"
+        android:layout_marginRight="15dp"
+        android:layout_centerInParent="true"
+        android:textColor="@color/linen"
+        android:text="@string/animation_zoom"
+        android:background="@drawable/button_circular_color"/>
+
+    <Button
+        android:id="@+id/button5"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:layout_marginTop="35dp"
+        android:layout_marginLeft="15dp"
+        android:layout_marginRight="15dp"
+        android:layout_centerInParent="true"
+        android:textColor="@color/linen"
+        android:text="@string/animation_laihuisuofangshi"
+        android:background="@drawable/button_circular_color"/>
+</LinearLayout>

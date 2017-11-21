@@ -1,0 +1,79 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <string name="app_name">FunctionLists</string>
+    <string name="hello_world">Hello world!</string>
+    <string name="action_settings">Settings</string>
+    <string name="touzi">We</string>
+    <string name="yihuishou">青春</string>
+    <string name="mingxi">family</string>   
+    <string name="name">哈哈哈哈哈</string>
+    <string name="bj">本金</string>
+    <string name="lx">利息</string>
+    <string name="time">20160101</string>
+    <string name="bb">100%</string>
+    <string name="ysbx">已收本息</string>
+    <string name="dqhbx">到期还本息</string>
+
+    <string name="btn_time">时间选择器</string>
+    <string name="btn_animation">渐变和缩放动画</string>
+    <string name="time_select">选择时间</string>
+    <string name="date_select">选择日期</string>
+    <string name="date_show">00:00</string>
+    <string name="animation_jianbain">渐变式</string>
+    <string name="animation_shangxia">上下式</string>
+    <string name="animation_zuoyou">左右</string>
+    <string name="animation_zoom">缩放</string>
+    <string name="animation_laihuisuofangshi">来回缩放式</string>
+
+    <string name="current_custom_header_footer">当前自定义复杂的头和脚刷新</string>
+    <string name="header_textt">Swipe 刷新</string>
+    <string name="custom_header">自定义 刷新</string>
+    <string name="header_refresh"> 头 </string>
+    <string name="header_and_footer">头和脚</string>r
+    <string name="footer_text">故事在城外</string>
+    <string name="footer_text2">浓雾散不开</string>
+    
+    <string name="custom_beyboard">自定义键盘</string>
+    <string name="pay_beyboard">支付键盘</string>
+
+    <string name="ios_photo">图片</string>
+    <string name="ios_dialog">ios_框</string>
+
+    <string name="exit_application">再按一次退出应用程序</string>
+    
+    <string name="viewpager_fragment">viewpager+fragment切换</string>
+    <string name="image_loader">imageload配置和加载</string>
+    <string name="net_connection">网络连接</string>
+    <string name="Immersive_status">沉浸式状态栏</string>
+    <string name="check_select_show_more">点击往下展示更多</string>
+    <string name="ShoppingCart">购物车</string>
+    <string name="CommentReply">评论回复</string>
+    <string name="imitation_ios_dialog">模式ios的弹出框</string>
+    <string name="time_select_list">时间选择器</string>
+    <string name="animation_list">动画列表</string>
+    <string name="pay_broadkey">支付键盘</string>
+    <string name="banner">动态轮播图</string>
+    <string name="progress_bar">进度条</string>
+    <string name="CoordinatorLayout">协调 包含 浮动按钮 布局</string>
+    <string name="tabLayout">TabLayout+viewpager</string>
+    <string name="LoveCurve">自定义浮动的爱心</string>
+    <string name="NotificationBar">通知栏</string>
+    <string name="suspension_Bar">滚动悬浮条recycleView</string>
+    <string name="city_index_list">城市索引列表</string>
+    <string name="select_city">选择城市</string>
+    <string name="top_notification">顶部通知</string>
+    <string name="camera">照相机</string>
+    <string name="qr_code">二维码页面</string>
+    <string name="qr_scanner">二维码扫描</string>
+    <string name="check_qr_code">检测到不支持的二维码</string>
+    <string name="sesame_annular_view">芝麻信用环形view</string>
+
+    <string name="RecordingTest">录音</string>
+    <string name="ScreenShot">长图截取</string>
+    <string name="custom_view_one">自定义view 一</string>
+    <string name="custom_view_two">自定义view 二</string>
+    <string name="custom_view_three">自定义view 三</string>
+    <string name="annular_progress_bar">自定义环形进度条</string>
+    
+</resources>

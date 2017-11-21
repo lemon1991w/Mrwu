@@ -1,0 +1,38 @@
+[
+    {
+        "merged": "/Users/wusourece/Desktop/FunctionList/app/build/intermediates/res/merged/arm/debug/drawable-anydpi-v21/ic_thumb_up_black_24px.xml",
+        "source": "/Users/wusourece/Desktop/FunctionList/app/build/intermediates/exploded-aar/FunctionList/recyclerview/unspecified/res/drawable-anydpi-v21/ic_thumb_up_black_24px.xml"
+    },
+    {
+        "merged": "/Users/wusourece/Desktop/FunctionList/app/build/intermediates/res/merged/arm/debug/drawable-anydpi-v21/ic_mode_edit_black_24dp.xml",
+        "source": "/Users/wusourece/Desktop/FunctionList/app/build/intermediates/exploded-aar/FunctionList/recyclerview/unspecified/res/drawable-anydpi-v21/ic_mode_edit_black_24dp.xml"
+    },
+    {
+        "merged": "/Users/wusourece/Desktop/FunctionList/app/build/intermediates/res/merged/arm/debug/drawable-anydpi-v21/ic_check_circle_white_24dp.xml",
+        "source": "/Users/wusourece/Desktop/FunctionList/app/build/generated/res/pngs/arm/debug/drawable-anydpi-v21/ic_check_circle_white_24dp.xml"
+    },
+    {
+        "merged": "/Users/wusourece/Desktop/FunctionList/app/build/intermediates/res/merged/arm/debug/drawable-anydpi-v21/ic_add_black_24dp.xml",
+        "source": "/Users/wusourece/Desktop/FunctionList/app/build/intermediates/exploded-aar/FunctionList/recyclerview/unspecified/res/drawable-anydpi-v21/ic_add_black_24dp.xml"
+    },
+    {
+        "merged": "/Users/wusourece/Desktop/FunctionList/app/build/intermediates/res/merged/arm/debug/drawable-anydpi-v21/ic_build_black_24dp.xml",
+        "source": "/Users/wusourece/Desktop/FunctionList/app/build/intermediates/exploded-aar/FunctionList/recyclerview/unspecified/res/drawable-anydpi-v21/ic_build_black_24dp.xml"
+    },
+    {
+        "merged": "/Users/wusourece/Desktop/FunctionList/app/build/intermediates/res/merged/arm/debug/drawable-anydpi-v21/ic_favorite_black_24px.xml",
+        "source": "/Users/wusourece/Desktop/FunctionList/app/build/intermediates/exploded-aar/FunctionList/recyclerview/unspecified/res/drawable-anydpi-v21/ic_favorite_black_24px.xml"
+    },
+    {
+        "merged": "/Users/wusourece/Desktop/FunctionList/app/build/intermediates/res/merged/arm/debug/drawable-anydpi-v21/ic_star_black_24px.xml",
+        "source": "/Users/wusourece/Desktop/FunctionList/app/build/intermediates/exploded-aar/FunctionList/recyclerview/unspecified/res/drawable-anydpi-v21/ic_star_black_24px.xml"
+    },
+    {
+        "merged": "/Users/wusourece/Desktop/FunctionList/app/build/intermediates/res/merged/arm/debug/drawable-anydpi-v21/ic_delete_black_24px.xml",
+        "source": "/Users/wusourece/Desktop/FunctionList/app/build/intermediates/exploded-aar/FunctionList/recyclerview/unspecified/res/drawable-anydpi-v21/ic_delete_black_24px.xml"
+    },
+    {
+        "merged": "/Users/wusourece/Desktop/FunctionList/app/build/intermediates/res/merged/arm/debug/drawable-anydpi-v21/ic_error_outline_white_24dp.xml",
+        "source": "/Users/wusourece/Desktop/FunctionList/app/build/generated/res/pngs/arm/debug/drawable-anydpi-v21/ic_error_outline_white_24dp.xml"
+    }
+]
