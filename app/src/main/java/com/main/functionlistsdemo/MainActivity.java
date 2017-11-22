@@ -68,7 +68,7 @@ public class MainActivity extends Activity {
 	private Timer tExit;
 	private TimerTask task;
 
-
+    //我知道的知道的
     @Override
 	protected void onCreate(Bundle savedInstanceState) {
 		super.onCreate(savedInstanceState);
