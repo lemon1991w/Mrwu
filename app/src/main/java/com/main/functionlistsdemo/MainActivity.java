@@ -30,6 +30,7 @@ import com.keyboard.custom.MainKeyBoardActivity;
 import com.net.connection.MainNetConnection;
 import com.net.request.more.MainNetRequest;
 import com.notification.bar.MainNotificationBar;
+import com.progressbar.CustomViewProgressBarActivity;
 import com.progressbar.ProgressBarActivity;
 import com.recording.test.RecordingTest;
 import com.screen.shot.ScreenShotActivity;
@@ -55,9 +56,9 @@ public class MainActivity extends Activity {
 
 	String url = "http://172.16.10.87:8081/mcar/protal/rondamImage.do";
 
-	private static String[] adapterData = new String[]{"自定义环形进度条","自定义view三","自定义view二","自定义view一","长图截取","录音测试","芝麻信用的环形view","二维码扫描","camera","顶部通知栏","城市索引列表","悬浮条的recycleView","系统通知栏","LoveCurve","SlidingTabLayout+viewpager","CoordinatorLayout + 顶部特效","自定义进度条","滑动切换轮播圆点","自定义键盘和支付键盘","swipeLayoutRecyclerView","时间选择和常用动画","仿ios的dialog","评论回复功能","snackBar Toast","shoppingCart","显示更多","进入应用时判断网络是否连接","沉浸式状态栏","imageLoaderDemo","viewPager+Fragment"};
+	private static String[] adapterData = new String[]{"可拖动进度条","自定义环形进度条","自定义view三","自定义view二","自定义view一","长图截取","录音测试","芝麻信用的环形view","二维码扫描","camera","顶部通知栏","城市索引列表","悬浮条的recycleView","系统通知栏","LoveCurve","SlidingTabLayout+viewpager","CoordinatorLayout + 顶部特效","自定义进度条","滑动切换轮播圆点","自定义键盘和支付键盘","swipeLayoutRecyclerView","时间选择和常用动画","仿ios的dialog","评论回复功能","snackBar Toast","shoppingCart","显示更多","进入应用时判断网络是否连接","沉浸式状态栏","imageLoaderDemo","viewPager+Fragment"};
 
-	private static Class []  clazzs = new Class[]{AnnularProgressBarActivity.class,CustomViewThreeActivity.class,CustomViewTwoActivity.class,CustomViewOneActivity.class,ScreenShotActivity.class,RecordingTest.class,SesameCreditActivity.class,QrcodeScannerActivity.class,CameraActivity.class,TopNotification.class,CityIndexListActivity.class,SupensionBarActivity.class,MainNotificationBar.class,LoveCurveActivity.class,SlidingTabActivity.class,CoordinatorLayoutActivity.class,ProgressBarActivity.class,BannerActivity.class,MainKeyBoardActivity.class,MainSwipeLayoutActivity.class,MainListActivity.class, ImitationIosDialogActivity.class,MainCommentReply.class,MainNetRequest.class,MainShoppingCart.class,ClickShowMore.class,MainNetConnection.class,MainImmersive.class,ImageLoaderDemo.class,MainPager.class};
+	private static Class []  clazzs = new Class[]{CustomViewProgressBarActivity.class,AnnularProgressBarActivity.class,CustomViewThreeActivity.class,CustomViewTwoActivity.class,CustomViewOneActivity.class,ScreenShotActivity.class,RecordingTest.class,SesameCreditActivity.class,QrcodeScannerActivity.class,CameraActivity.class,TopNotification.class,CityIndexListActivity.class,SupensionBarActivity.class,MainNotificationBar.class,LoveCurveActivity.class,SlidingTabActivity.class,CoordinatorLayoutActivity.class,ProgressBarActivity.class,BannerActivity.class,MainKeyBoardActivity.class,MainSwipeLayoutActivity.class,MainListActivity.class, ImitationIosDialogActivity.class,MainCommentReply.class,MainNetRequest.class,MainShoppingCart.class,ClickShowMore.class,MainNetConnection.class,MainImmersive.class,ImageLoaderDemo.class,MainPager.class};
 	
     private ArrayAdapter<String> adapter ;
     private ListView listView;

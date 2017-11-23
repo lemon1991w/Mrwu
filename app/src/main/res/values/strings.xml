@@ -75,5 +75,7 @@
     <string name="custom_view_two">自定义view 二</string>
     <string name="custom_view_three">自定义view 三</string>
     <string name="annular_progress_bar">自定义环形进度条</string>
+
+    <string name="pull_progress_bar">可拖动进度条</string>
     
 </resources>
